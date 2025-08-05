@@ -1,0 +1,1501 @@
+﻿ID,NOMBRE,FECHA,CIUDAD,PAIS,TIPO
+1,Arte Urbano,8/13/2024,Quito,Ecuador,Festival
+2,Festival de Luces,9/29/2023,Cuenca,Ecuador,Festival
+3,Fiesta Musical,3/17/2025,Quito,Ecuador,Evento Público
+4,Festival Andino,11/8/2024,Guayaquil,Ecuador,Exposición
+5,Cultura Viva,6/14/2025,Guayaquil,Ecuador,Exposición
+6,Arte Urbano,8/12/2025,Ambato,Ecuador,Concierto
+7,Arte Urbano,12/5/2024,Quito,Ecuador,Evento Público
+8,Festival de Luces,10/30/2024,Ambato,Ecuador,Festival
+9,Festival de Luces,11/5/2024,Ambato,Ecuador,Evento Público
+10,Festival Andino,9/6/2023,Loja,Ecuador,Exposición
+11,Fiesta Musical,6/26/2024,Ambato,Ecuador,Festival
+12,Cultura Viva,2/13/2025,Ambato,Ecuador,Exposición
+13,Concierto por la Paz,5/23/2025,Cuenca,Ecuador,Exposición
+14,Concierto por la Paz,5/9/2023,Guayaquil,Ecuador,Festival
+15,Expo Cultura,9/4/2025,Quito,Ecuador,Festival
+16,Concierto por la Paz,6/4/2023,Cuenca,Ecuador,Evento Público
+17,Fiesta Musical,11/20/2023,Cuenca,Ecuador,Concierto
+18,Cultura Viva,10/18/2023,Loja,Ecuador,Concierto
+19,Noche de Jazz,8/7/2025,Cuenca,Ecuador,Festival
+20,Festival de Luces,5/14/2025,Cuenca,Ecuador,Festival
+21,Festival Andino,2/27/2024,Ambato,Ecuador,Exposición
+22,Festival de Luces,10/31/2024,Quito,Ecuador,Concierto
+23,Festival Andino,9/12/2023,Guayaquil,Ecuador,Evento Público
+24,Festival de Luces,6/19/2024,Ambato,Ecuador,Exposición
+25,Fiesta Musical,7/11/2023,Ambato,Ecuador,Exposición
+26,Fiesta Musical,10/3/2024,Guayaquil,Ecuador,Evento Público
+27,Festival de Luces,1/21/2025,Ambato,Ecuador,Evento Público
+28,Festival de Luces,1/5/2025,Cuenca,Ecuador,Concierto
+29,Festival de Luces,11/24/2024,Guayaquil,Ecuador,Concierto
+30,Expo Cultura,4/21/2024,Guayaquil,Ecuador,Concierto
+31,Noche de Jazz,6/19/2025,Ambato,Ecuador,Concierto
+32,Concierto por la Paz,7/24/2024,Loja,Ecuador,Exposición
+33,Cultura Viva,5/6/2023,Quito,Ecuador,Exposición
+34,Concierto por la Paz,1/17/2025,Cuenca,Ecuador,Exposición
+35,Festival de Luces,3/17/2025,Quito,Ecuador,Exposición
+36,Cultura Viva,6/12/2023,Guayaquil,Ecuador,Concierto
+37,Noche de Jazz,6/6/2023,Ambato,Ecuador,Festival
+38,Festival de Luces,10/23/2023,Quito,Ecuador,Festival
+39,Expo Cultura,10/28/2023,Quito,Ecuador,Festival
+40,Expo Cultura,8/2/2024,Guayaquil,Ecuador,Exposición
+41,Noche de Jazz,2/13/2025,Quito,Ecuador,Evento Público
+42,Arte Urbano,4/19/2024,Cuenca,Ecuador,Exposición
+43,Concierto por la Paz,7/4/2024,Quito,Ecuador,Festival
+44,Cultura Viva,1/20/2024,Quito,Ecuador,Evento Público
+45,Noche de Jazz,12/20/2023,Quito,Ecuador,Evento Público
+46,Noche de Jazz,9/19/2024,Loja,Ecuador,Festival
+47,Expo Cultura,7/27/2023,Loja,Ecuador,Evento Público
+48,Cultura Viva,9/21/2025,Ambato,Ecuador,Exposición
+49,Festival Andino,8/9/2023,Guayaquil,Ecuador,Evento Público
+50,Arte Urbano,11/29/2024,Guayaquil,Ecuador,Concierto
+51,Concierto por la Paz,5/11/2024,Quito,Ecuador,Exposición
+52,Festival de Luces,8/13/2025,Quito,Ecuador,Evento Público
+53,Expo Cultura,7/17/2025,Ambato,Ecuador,Exposición
+54,Festival Andino,2/25/2025,Cuenca,Ecuador,Evento Público
+55,Arte Urbano,5/8/2025,Quito,Ecuador,Festival
+56,Noche de Jazz,7/24/2025,Cuenca,Ecuador,Festival
+57,Cultura Viva,8/9/2025,Guayaquil,Ecuador,Festival
+58,Festival de Luces,1/19/2025,Loja,Ecuador,Concierto
+59,Expo Cultura,7/5/2023,Ambato,Ecuador,Evento Público
+60,Fiesta Musical,9/20/2025,Quito,Ecuador,Festival
+61,Concierto por la Paz,6/26/2023,Quito,Ecuador,Concierto
+62,Expo Cultura,12/31/2023,Loja,Ecuador,Festival
+63,Concierto por la Paz,1/30/2023,Loja,Ecuador,Concierto
+64,Festival Andino,3/2/2024,Quito,Ecuador,Evento Público
+65,Festival de Luces,5/12/2025,Cuenca,Ecuador,Concierto
+66,Festival de Luces,3/27/2024,Loja,Ecuador,Evento Público
+67,Noche de Jazz,7/9/2023,Loja,Ecuador,Concierto
+68,Fiesta Musical,4/23/2024,Guayaquil,Ecuador,Evento Público
+69,Arte Urbano,6/3/2023,Guayaquil,Ecuador,Concierto
+70,Concierto por la Paz,7/30/2024,Loja,Ecuador,Concierto
+71,Fiesta Musical,7/15/2025,Cuenca,Ecuador,Festival
+72,Festival de Luces,3/14/2025,Cuenca,Ecuador,Evento Público
+73,Festival Andino,7/12/2024,Ambato,Ecuador,Concierto
+74,Expo Cultura,1/22/2025,Guayaquil,Ecuador,Exposición
+75,Expo Cultura,2/22/2025,Ambato,Ecuador,Concierto
+76,Cultura Viva,9/7/2023,Cuenca,Ecuador,Festival
+77,Noche de Jazz,4/12/2024,Ambato,Ecuador,Concierto
+78,Fiesta Musical,1/6/2025,Loja,Ecuador,Exposición
+79,Expo Cultura,7/27/2023,Ambato,Ecuador,Concierto
+80,Cultura Viva,3/27/2024,Ambato,Ecuador,Festival
+81,Cultura Viva,1/28/2024,Loja,Ecuador,Evento Público
+82,Concierto por la Paz,3/9/2025,Cuenca,Ecuador,Evento Público
+83,Arte Urbano,12/26/2024,Loja,Ecuador,Concierto
+84,Arte Urbano,4/16/2023,Ambato,Ecuador,Exposición
+85,Expo Cultura,8/8/2023,Loja,Ecuador,Exposición
+86,Cultura Viva,7/25/2024,Loja,Ecuador,Evento Público
+87,Festival Andino,2/11/2025,Guayaquil,Ecuador,Concierto
+88,Festival de Luces,1/18/2024,Quito,Ecuador,Exposición
+89,Concierto por la Paz,1/4/2023,Ambato,Ecuador,Festival
+90,Noche de Jazz,6/5/2023,Guayaquil,Ecuador,Festival
+91,Fiesta Musical,6/17/2023,Cuenca,Ecuador,Festival
+92,Cultura Viva,12/21/2023,Quito,Ecuador,Evento Público
+93,Festival de Luces,6/8/2025,Guayaquil,Ecuador,Exposición
+94,Festival Andino,6/17/2023,Guayaquil,Ecuador,ExposiciÃ³n
+95,Fiesta Musical,2/6/2025,Loja,Ecuador,Exposición
+96,Arte Urbano,11/18/2024,Guayaquil,Ecuador,Concierto
+97,Arte Urbano,5/27/2024,Guayaquil,Ecuador,Concierto
+98,Fiesta Musical,9/16/2025,Ambato,Ecuador,Exposición
+99,Concierto por la Paz,3/31/2024,Ambato,Ecuador,Concierto
+100,Cultura Viva,6/18/2025,Quito,Ecuador,Exposición
+101,Festival Andino,5/18/2023,Cuenca,Ecuador,Evento Público
+102,Concierto por la Paz,5/15/2024,Ambato,Ecuador,Evento Público
+103,Fiesta Musical,4/15/2024,Cuenca,Ecuador,Exposición
+104,Noche de Jazz,1/2/2023,Cuenca,Ecuador,Festival
+105,Arte Urbano,12/8/2024,Loja,Ecuador,Evento Público
+106,Expo Cultura,12/13/2023,Loja,Ecuador,Exposición
+107,Cultura Viva,4/19/2023,Loja,Ecuador,Evento Público
+108,Concierto por la Paz,8/21/2023,Loja,Ecuador,Evento Público
+109,Arte Urbano,7/19/2023,Quito,Ecuador,Festival
+110,Expo Cultura,12/10/2023,Ambato,Ecuador,Festival
+111,Festival Andino,2/6/2024,Quito,Ecuador,Festival
+112,Fiesta Musical,7/8/2023,Loja,Ecuador,Festival
+113,Expo Cultura,4/12/2023,Ambato,Ecuador,Festival
+114,Fiesta Musical,2/14/2023,Ambato,Ecuador,Festival
+115,Arte Urbano,4/15/2025,Guayaquil,Ecuador,Concierto
+116,Festival de Luces,2/2/2025,Ambato,Ecuador,Festival
+117,Fiesta Musical,10/3/2023,Ambato,Ecuador,Exposición
+118,Arte Urbano,7/18/2023,Loja,Ecuador,Festival
+119,Festival Andino,6/5/2023,Ambato,Ecuador,Concierto
+120,Festival de Luces,1/13/2023,Loja,Ecuador,Concierto
+121,Concierto por la Paz,8/24/2023,Ambato,Ecuador,Evento Público
+122,Cultura Viva,12/15/2024,Cuenca,Ecuador,Concierto
+123,Cultura Viva,12/31/2024,Ambato,Ecuador,Festival
+124,Expo Cultura,3/20/2023,Ambato,Ecuador,Exposición
+125,Expo Cultura,8/27/2025,Ambato,Ecuador,Exposición
+126,Fiesta Musical,8/19/2025,Ambato,Ecuador,Concierto
+127,Cultura Viva,8/5/2025,Cuenca,Ecuador,Festival
+128,Arte Urbano,8/1/2024,Guayaquil,Ecuador,Concierto
+129,Fiesta Musical,2/11/2024,Cuenca,Ecuador,Evento Público
+130,Festival Andino,5/26/2025,Quito,Ecuador,Evento Público
+131,Arte Urbano,5/5/2025,Loja,Ecuador,Evento Público
+132,Arte Urbano,4/20/2023,Guayaquil,Ecuador,Festival
+133,Concierto por la Paz,3/2/2025,Ambato,Ecuador,Evento Público
+134,Festival de Luces,9/17/2023,Guayaquil,Ecuador,Festival
+135,Fiesta Musical,3/13/2025,Quito,Ecuador,Exposición
+136,Arte Urbano,4/7/2023,Loja,Ecuador,Festival
+137,Cultura Viva,3/12/2023,Cuenca,Ecuador,Exposición
+138,Festival Andino,7/5/2023,Quito,Ecuador,Evento Público
+139,Noche de Jazz,6/30/2024,Quito,Ecuador,Concierto
+140,Arte Urbano,9/12/2023,Guayaquil,Ecuador,Evento Público
+141,Concierto por la Paz,2/12/2024,Cuenca,Ecuador,Exposición
+142,Festival Andino,10/20/2024,Ambato,Ecuador,Evento Público
+143,Noche de Jazz,7/9/2024,Guayaquil,Ecuador,Festival
+144,Fiesta Musical,5/17/2023,Loja,Ecuador,Concierto
+145,Arte Urbano,8/10/2024,Guayaquil,Ecuador,Concierto
+146,Concierto por la Paz,4/20/2024,Quito,Ecuador,Festival
+147,Expo Cultura,5/26/2024,Quito,Ecuador,Festival
+148,Concierto por la Paz,7/4/2025,Guayaquil,Ecuador,Concierto
+149,Cultura Viva,5/20/2024,Ambato,Ecuador,Evento Público
+150,Cultura Viva,6/23/2023,Ambato,Ecuador,Evento Público
+151,Cultura Viva,8/31/2023,Guayaquil,Ecuador,Festival
+152,Fiesta Musical,1/17/2024,Cuenca,Ecuador,Evento Público
+153,Noche de Jazz,7/8/2023,Cuenca,Ecuador,Festival
+154,Fiesta Musical,11/16/2023,Ambato,Ecuador,Exposición
+155,Festival de Luces,9/27/2025,Guayaquil,Ecuador,Festival
+156,Cultura Viva,9/27/2025,Loja,Ecuador,Festival
+157,Arte Urbano,12/21/2024,Ambato,Ecuador,Festival
+158,Festival Andino,3/23/2025,Guayaquil,Ecuador,Concierto
+159,Noche de Jazz,3/26/2025,Ambato,Ecuador,Festival
+160,Arte Urbano,1/23/2024,Ambato,Ecuador,Exposición
+161,Festival Andino,5/24/2024,Quito,Ecuador,Exposición
+162,Noche de Jazz,1/27/2025,Guayaquil,Ecuador,Exposición
+163,Concierto por la Paz,4/24/2024,Guayaquil,Ecuador,Concierto
+164,Festival Andino,4/9/2024,Ambato,Ecuador,Festival
+165,Cultura Viva,5/19/2025,Loja,Ecuador,Exposición
+166,Noche de Jazz,7/17/2023,Ambato,Ecuador,Evento Público
+167,Festival de Luces,5/19/2024,Ambato,Ecuador,Festival
+168,Noche de Jazz,5/12/2025,Quito,Ecuador,Festival
+169,Noche de Jazz,3/19/2024,Guayaquil,Ecuador,Festival
+170,Cultura Viva,5/20/2023,Quito,Ecuador,Exposición
+171,Arte Urbano,3/16/2024,Guayaquil,Ecuador,Exposición
+172,Festival de Luces,3/9/2024,Guayaquil,Ecuador,Evento Público
+173,Concierto por la Paz,1/8/2025,Guayaquil,Ecuador,Concierto
+174,Festival de Luces,10/13/2023,Quito,Ecuador,Concierto
+175,Noche de Jazz,10/16/2023,Ambato,Ecuador,Festival
+176,Festival Andino,4/14/2025,Ambato,Ecuador,Festival
+177,Festival Andino,8/25/2024,Ambato,Ecuador,Festival
+178,Noche de Jazz,3/11/2023,Quito,Ecuador,Concierto
+179,Concierto por la Paz,3/20/2024,Cuenca,Ecuador,Exposición
+180,Concierto por la Paz,12/21/2024,Loja,Ecuador,Concierto
+181,Festival Andino,10/10/2024,Quito,Ecuador,Concierto
+182,Expo Cultura,3/11/2024,Guayaquil,Ecuador,Festival
+183,Festival de Luces,12/30/2023,Cuenca,Ecuador,Concierto
+184,Cultura Viva,2/14/2025,Cuenca,Ecuador,Exposición
+185,Noche de Jazz,7/14/2023,Cuenca,Ecuador,Festival
+186,Fiesta Musical,9/11/2023,Ambato,Ecuador,Concierto
+187,Noche de Jazz,10/2/2023,Ambato,Ecuador,Evento Público
+188,Cultura Viva,9/26/2024,Ambato,Ecuador,Evento Público
+189,Festival de Luces,5/12/2024,Loja,Ecuador,Evento Público
+190,Expo Cultura,9/24/2025,Guayaquil,Ecuador,Festival
+191,Expo Cultura,7/23/2024,Loja,Ecuador,Festival
+192,Festival Andino,9/19/2025,Guayaquil,Ecuador,Exposición
+193,Concierto por la Paz,7/17/2023,Quito,Ecuador,Exposición
+194,Fiesta Musical,1/11/2024,Quito,Ecuador,Exposición
+195,Arte Urbano,7/26/2023,Quito,Ecuador,Exposición
+196,Arte Urbano,5/22/2025,Guayaquil,Ecuador,Concierto
+197,Noche de Jazz,8/27/2025,Loja,Ecuador,Evento Público
+198,Festival de Luces,9/1/2025,Cuenca,Ecuador,Festival
+199,Arte Urbano,12/10/2024,Cuenca,Ecuador,Concierto
+200,Festival Andino,1/14/2023,Ambato,Ecuador,Concierto
+201,Concierto por la Paz,4/29/2023,Quito,Ecuador,Concierto
+202,Fiesta Musical,3/1/2025,Ambato,Ecuador,Concierto
+203,Noche de Jazz,3/16/2023,Ambato,Ecuador,Evento Público
+204,Arte Urbano,1/28/2023,Guayaquil,Ecuador,Festival
+205,Arte Urbano,9/2/2025,Cuenca,Ecuador,Evento Público
+206,Arte Urbano,9/1/2023,Quito,Ecuador,Festival
+207,Festival Andino,7/20/2023,Quito,Ecuador,Concierto
+208,Arte Urbano,9/23/2023,Ambato,Ecuador,Concierto
+209,Concierto por la Paz,6/16/2025,Cuenca,Ecuador,Festival
+210,Noche de Jazz,10/16/2024,Cuenca,Ecuador,Festival
+211,Noche de Jazz,1/21/2024,Quito,Ecuador,Festival
+212,Festival Andino,3/25/2023,Ambato,Ecuador,Concierto
+213,Festival Andino,3/10/2024,Loja,Ecuador,Festival
+214,Noche de Jazz,1/12/2023,Quito,Ecuador,Festival
+215,Concierto por la Paz,6/19/2025,Quito,Ecuador,Concierto
+216,Fiesta Musical,10/29/2023,Quito,Ecuador,Concierto
+217,Arte Urbano,3/15/2024,Cuenca,Ecuador,Exposición
+218,Fiesta Musical,2/12/2025,Ambato,Ecuador,Concierto
+219,Cultura Viva,9/20/2025,Guayaquil,Ecuador,Evento Público
+220,Fiesta Musical,6/16/2023,Ambato,Ecuador,Festival
+221,Arte Urbano,4/14/2024,Guayaquil,Ecuador,Festival
+222,Fiesta Musical,9/16/2024,Quito,Ecuador,Evento Público
+223,Cultura Viva,8/21/2025,Guayaquil,Ecuador,Evento Público
+224,Festival Andino,11/15/2024,Ambato,Ecuador,Concierto
+225,Concierto por la Paz,8/12/2025,Cuenca,Ecuador,Concierto
+226,Festival Andino,8/18/2025,Guayaquil,Ecuador,Exposición
+227,Concierto por la Paz,9/15/2025,Cuenca,Ecuador,Concierto
+228,Fiesta Musical,9/29/2024,Loja,Ecuador,Concierto
+229,Cultura Viva,4/1/2025,Cuenca,Ecuador,Festival
+230,Cultura Viva,2/27/2025,Loja,Ecuador,Evento Público
+231,Expo Cultura,4/17/2025,Ambato,Ecuador,Concierto
+232,Concierto por la Paz,3/3/2024,Guayaquil,Ecuador,Exposición
+233,Festival de Luces,9/8/2023,Guayaquil,Ecuador,Concierto
+234,Concierto por la Paz,8/5/2023,Guayaquil,Ecuador,Festival
+235,Fiesta Musical,9/8/2023,Guayaquil,Ecuador,Concierto
+236,Fiesta Musical,3/1/2024,Cuenca,Ecuador,Evento Público
+237,Festival Andino,5/6/2023,Ambato,Ecuador,Concierto
+238,Arte Urbano,4/9/2024,Ambato,Ecuador,Exposición
+239,Arte Urbano,9/21/2025,Cuenca,Ecuador,Concierto
+240,Festival de Luces,6/20/2025,Loja,Ecuador,Exposición
+241,Concierto por la Paz,4/18/2025,Loja,Ecuador,Festival
+242,Festival de Luces,10/19/2024,Loja,Ecuador,Festival
+243,Fiesta Musical,8/11/2025,Cuenca,Ecuador,Concierto
+244,Fiesta Musical,1/26/2025,Guayaquil,Ecuador,Evento Público
+245,Expo Cultura,6/2/2024,Cuenca,Ecuador,Festival
+246,Arte Urbano,3/17/2023,Loja,Ecuador,Exposición
+247,Fiesta Musical,11/29/2024,Quito,Ecuador,Evento Público
+248,Festival de Luces,7/1/2025,Cuenca,Ecuador,Festival
+249,Concierto por la Paz,9/26/2025,Guayaquil,Ecuador,Evento Público
+250,Noche de Jazz,3/31/2025,Ambato,Ecuador,Festival
+251,Cultura Viva,1/2/2023,Loja,Ecuador,Concierto
+252,Cultura Viva,1/2/2025,Quito,Ecuador,Concierto
+253,Festival de Luces,2/12/2024,Cuenca,Ecuador,Concierto
+254,Fiesta Musical,11/20/2024,Ambato,Ecuador,Concierto
+255,Festival de Luces,7/22/2023,Guayaquil,Ecuador,Concierto
+256,Festival Andino,6/27/2023,Guayaquil,Ecuador,Concierto
+257,Noche de Jazz,12/10/2024,Loja,Ecuador,Exposición
+258,Fiesta Musical,9/11/2023,Loja,Ecuador,Concierto
+259,Arte Urbano,6/5/2024,Loja,Ecuador,Festival
+260,Festival de Luces,9/4/2024,Ambato,Ecuador,Evento Público
+261,Festival de Luces,3/16/2024,Guayaquil,Ecuador,Exposición
+262,Festival Andino,11/21/2024,Quito,Ecuador,Exposición
+263,Fiesta Musical,8/12/2025,Cuenca,Ecuador,Exposición
+264,Arte Urbano,2/15/2025,Loja,Ecuador,Festival
+265,Cultura Viva,10/14/2024,Ambato,Ecuador,Exposición
+266,Arte Urbano,3/11/2024,Ambato,Ecuador,Evento Público
+267,Arte Urbano,8/17/2025,Ambato,Ecuador,Evento Público
+268,Festival de Luces,3/26/2025,Ambato,Ecuador,Festival
+269,Festival Andino,6/30/2024,Cuenca,Ecuador,Concierto
+270,Concierto por la Paz,6/9/2024,Guayaquil,Ecuador,Exposición
+271,Festival Andino,7/24/2024,Ambato,Ecuador,Exposición
+272,Festival Andino,2/3/2023,Quito,Ecuador,Exposición
+273,Festival de Luces,4/12/2025,Ambato,Ecuador,Concierto
+274,Expo Cultura,3/22/2025,Ambato,Ecuador,Exposición
+275,Festival Andino,7/6/2023,Cuenca,Ecuador,Evento Público
+276,Concierto por la Paz,7/22/2024,Loja,Ecuador,Concierto
+277,Fiesta Musical,2/5/2024,Cuenca,Ecuador,Concierto
+278,Festival Andino,1/9/2023,Quito,Ecuador,Festival
+279,Cultura Viva,10/22/2024,Ambato,Ecuador,Exposición
+280,Noche de Jazz,12/27/2024,Loja,Ecuador,Festival
+281,Cultura Viva,7/10/2025,Ambato,Ecuador,Festival
+282,Fiesta Musical,2/24/2023,Cuenca,Ecuador,Concierto
+283,Festival Andino,10/26/2024,Quito,Ecuador,Festival
+284,Arte Urbano,10/28/2023,Guayaquil,Ecuador,Festival
+285,Cultura Viva,3/18/2024,Cuenca,Ecuador,Evento Público
+286,Festival de Luces,3/9/2023,Quito,Ecuador,Evento Público
+287,Cultura Viva,9/17/2023,Cuenca,Ecuador,Exposición
+288,Fiesta Musical,8/6/2023,Quito,Ecuador,Concierto
+289,Festival Andino,12/12/2023,Cuenca,Ecuador,Exposición
+290,Festival Andino,5/24/2025,Quito,Ecuador,Evento Público
+291,Noche de Jazz,10/8/2024,Cuenca,Ecuador,Exposición
+292,Festival Andino,1/17/2025,Cuenca,Ecuador,Evento Público
+293,Noche de Jazz,12/23/2023,Cuenca,Ecuador,Evento Público
+294,Festival de Luces,1/4/2024,Guayaquil,Ecuador,Evento Público
+295,Arte Urbano,2/18/2023,Guayaquil,Ecuador,Festival
+296,Fiesta Musical,8/14/2025,Ambato,Ecuador,Concierto
+297,Concierto por la Paz,11/1/2023,Loja,Ecuador,Exposición
+298,Arte Urbano,4/22/2025,Loja,Ecuador,Festival
+299,Arte Urbano,11/7/2024,Loja,Ecuador,Evento Público
+300,Cultura Viva,8/8/2023,Loja,Ecuador,Concierto
+301,Arte Urbano,3/28/2024,Quito,Ecuador,Exposición
+302,Arte Urbano,11/5/2023,Guayaquil,Ecuador,Concierto
+303,Festival Andino,6/2/2024,Cuenca,Ecuador,Exposición
+304,Fiesta Musical,12/31/2024,Loja,Ecuador,Exposición
+305,Noche de Jazz,3/16/2025,Guayaquil,Ecuador,Evento Público
+306,Festival de Luces,6/22/2024,Loja,Ecuador,Evento Público
+307,Noche de Jazz,8/13/2025,Cuenca,Ecuador,Festival
+308,Fiesta Musical,4/7/2025,Ambato,Ecuador,Concierto
+309,Fiesta Musical,8/16/2023,Ambato,Ecuador,Concierto
+310,Cultura Viva,4/23/2023,Guayaquil,Ecuador,Exposición
+311,Concierto por la Paz,5/15/2023,Quito,Ecuador,Exposición
+312,Cultura Viva,5/12/2024,Guayaquil,Ecuador,Exposición
+313,Arte Urbano,7/22/2023,Guayaquil,Ecuador,Festival
+314,Festival de Luces,9/22/2025,Guayaquil,Ecuador,Festival
+315,Fiesta Musical,9/4/2024,Ambato,Ecuador,Exposición
+316,Festival Andino,7/11/2023,Cuenca,Ecuador,Exposición
+317,Arte Urbano,6/18/2025,Guayaquil,Ecuador,Exposición
+318,Concierto por la Paz,6/3/2023,Ambato,Ecuador,Festival
+319,Concierto por la Paz,8/3/2023,Cuenca,Ecuador,Evento Público
+320,Concierto por la Paz,8/24/2023,Guayaquil,Ecuador,Concierto
+321,Festival de Luces,6/8/2023,Ambato,Ecuador,Exposición
+322,Concierto por la Paz,4/25/2023,Guayaquil,Ecuador,Concierto
+323,Fiesta Musical,12/10/2024,Guayaquil,Ecuador,Concierto
+324,Arte Urbano,7/26/2025,Loja,Ecuador,Concierto
+325,Noche de Jazz,6/27/2024,Guayaquil,Ecuador,Exposición
+326,Concierto por la Paz,6/2/2023,Quito,Ecuador,Festival
+327,Concierto por la Paz,7/11/2024,Guayaquil,Ecuador,Concierto
+328,Fiesta Musical,2/6/2023,Ambato,Ecuador,Evento Público
+329,Festival Andino,3/7/2024,Guayaquil,Ecuador,Festival
+330,Festival de Luces,5/31/2025,Cuenca,Ecuador,Concierto
+331,Festival Andino,12/3/2023,Loja,Ecuador,Festival
+332,Expo Cultura,1/5/2025,Quito,Ecuador,Exposición
+333,Festival Andino,3/13/2023,Ambato,Ecuador,Evento Público
+334,Cultura Viva,7/14/2024,Quito,Ecuador,Concierto
+335,Festival de Luces,1/5/2023,Quito,Ecuador,Festival
+336,Fiesta Musical,7/1/2025,Cuenca,Ecuador,Concierto
+337,Fiesta Musical,2/6/2024,Guayaquil,Ecuador,Evento Público
+338,Cultura Viva,6/16/2025,Ambato,Ecuador,Evento Público
+339,Concierto por la Paz,1/23/2023,Quito,Ecuador,Festival
+340,Concierto por la Paz,3/3/2024,Cuenca,Ecuador,Festival
+341,Noche de Jazz,1/10/2023,Cuenca,Ecuador,Festival
+342,Cultura Viva,3/18/2024,Ambato,Ecuador,Festival
+343,Fiesta Musical,9/27/2024,Guayaquil,Ecuador,Evento Público
+344,Concierto por la Paz,8/4/2023,Ambato,Ecuador,Concierto
+345,Expo Cultura,7/20/2023,Guayaquil,Ecuador,Exposición
+346,Concierto por la Paz,11/6/2024,Ambato,Ecuador,Concierto
+347,Noche de Jazz,2/4/2024,Cuenca,Ecuador,Festival
+348,Noche de Jazz,2/2/2025,Ambato,Ecuador,Exposición
+349,Cultura Viva,6/8/2024,Ambato,Ecuador,Concierto
+350,Noche de Jazz,6/18/2024,Ambato,Ecuador,Concierto
+351,Arte Urbano,1/12/2025,Loja,Ecuador,Exposición
+352,Cultura Viva,12/29/2024,Loja,Ecuador,Concierto
+353,Arte Urbano,6/20/2024,Loja,Ecuador,Concierto
+354,Arte Urbano,5/13/2024,Quito,Ecuador,Concierto
+355,Cultura Viva,12/27/2023,Loja,Ecuador,Concierto
+356,Fiesta Musical,8/28/2024,Guayaquil,Ecuador,Concierto
+357,Festival Andino,10/13/2024,Guayaquil,Ecuador,Festival
+358,Concierto por la Paz,6/1/2023,Quito,Ecuador,Exposición
+359,Festival de Luces,8/6/2023,Ambato,Ecuador,Concierto
+360,Festival Andino,6/25/2023,Quito,Ecuador,Concierto
+361,Fiesta Musical,9/22/2025,Guayaquil,Ecuador,Concierto
+362,Concierto por la Paz,3/18/2023,Cuenca,Ecuador,Concierto
+363,Festival Andino,3/9/2024,Loja,Ecuador,Exposición
+364,Festival Andino,10/16/2024,Quito,Ecuador,Festival
+365,Fiesta Musical,7/17/2023,Loja,Ecuador,Evento Público
+366,Arte Urbano,8/16/2025,Cuenca,Ecuador,Evento Público
+367,Noche de Jazz,12/17/2024,Loja,Ecuador,Concierto
+368,Arte Urbano,3/2/2025,Quito,Ecuador,Festival
+369,Concierto por la Paz,9/10/2025,Cuenca,Ecuador,Evento Público
+370,Arte Urbano,3/15/2025,Ambato,Ecuador,Exposición
+371,Noche de Jazz,5/17/2023,Cuenca,Ecuador,Exposición
+372,Festival de Luces,6/15/2023,Ambato,Ecuador,Evento Público
+373,Concierto por la Paz,3/21/2023,Ambato,Ecuador,Festival
+374,Expo Cultura,12/23/2023,Cuenca,Ecuador,Concierto
+375,Cultura Viva,8/31/2023,Quito,Ecuador,Concierto
+376,Fiesta Musical,2/20/2025,Ambato,Ecuador,Festival
+377,Noche de Jazz,5/25/2025,Quito,Ecuador,Evento Público
+378,Arte Urbano,11/22/2023,Loja,Ecuador,Evento Público
+379,Concierto por la Paz,3/15/2025,Ambato,Ecuador,Exposición
+380,Noche de Jazz,3/10/2025,Loja,Ecuador,Evento Público
+381,Concierto por la Paz,5/6/2025,Quito,Ecuador,Exposición
+382,Expo Cultura,8/20/2024,Ambato,Ecuador,Concierto
+383,Arte Urbano,9/1/2024,Guayaquil,Ecuador,Concierto
+384,Festival de Luces,4/10/2025,Loja,Ecuador,Evento Público
+385,Festival Andino,4/4/2023,Cuenca,Ecuador,Festival
+386,Festival de Luces,12/26/2023,Cuenca,Ecuador,Evento Público
+387,Concierto por la Paz,4/7/2024,Quito,Ecuador,Evento Público
+388,Festival Andino,5/24/2024,Cuenca,Ecuador,Concierto
+389,Expo Cultura,6/24/2025,Ambato,Ecuador,Evento Público
+390,Arte Urbano,1/19/2025,Quito,Ecuador,Concierto
+391,Festival Andino,7/14/2023,Cuenca,Ecuador,Exposición
+392,Cultura Viva,5/12/2025,Cuenca,Ecuador,Evento Público
+393,Concierto por la Paz,1/18/2023,Ambato,Ecuador,Concierto
+394,Fiesta Musical,6/1/2025,Cuenca,Ecuador,Evento Público
+395,Festival de Luces,12/19/2023,Ambato,Ecuador,Festival
+396,Expo Cultura,10/9/2023,Quito,Ecuador,Festival
+397,Fiesta Musical,4/27/2024,Guayaquil,Ecuador,Exposición
+398,Expo Cultura,8/4/2023,Loja,Ecuador,Evento Público
+399,Cultura Viva,2/22/2025,Cuenca,Ecuador,Evento Público
+400,Noche de Jazz,5/10/2024,Ambato,Ecuador,Festival
+401,Festival de Luces,12/24/2024,Loja,Ecuador,Evento Público
+402,Arte Urbano,12/6/2024,Ambato,Ecuador,Concierto
+403,Cultura Viva,1/9/2023,Guayaquil,Ecuador,Exposición
+404,Expo Cultura,4/30/2023,Loja,Ecuador,Evento Público
+405,Expo Cultura,1/17/2024,Guayaquil,Ecuador,Evento Público
+406,Festival de Luces,4/24/2023,Ambato,Ecuador,Festival
+407,Festival de Luces,9/8/2024,Cuenca,Ecuador,Evento Público
+408,Festival de Luces,1/10/2023,Loja,Ecuador,Festival
+409,Arte Urbano,6/15/2025,Guayaquil,Ecuador,Evento Público
+410,Arte Urbano,1/6/2025,Quito,Ecuador,Evento Público
+411,Concierto por la Paz,3/30/2024,Cuenca,Ecuador,Evento Público
+412,Concierto por la Paz,2/5/2025,Cuenca,Ecuador,Concierto
+413,Noche de Jazz,3/13/2024,Ambato,Ecuador,Concierto
+414,Expo Cultura,8/11/2024,Loja,Ecuador,Evento Público
+415,Arte Urbano,9/2/2024,Cuenca,Ecuador,Concierto
+416,Cultura Viva,5/16/2023,Guayaquil,Ecuador,Festival
+417,Arte Urbano,4/23/2024,Guayaquil,Ecuador,Concierto
+418,Noche de Jazz,4/2/2024,Ambato,Ecuador,Festival
+419,Cultura Viva,4/8/2025,Cuenca,Ecuador,Concierto
+420,Festival Andino,4/26/2023,Guayaquil,Ecuador,Festival
+421,Arte Urbano,6/6/2025,Quito,Ecuador,Evento Público
+422,Festival de Luces,5/18/2024,Guayaquil,Ecuador,Concierto
+423,Fiesta Musical,6/2/2024,Cuenca,Ecuador,Exposición
+424,Concierto por la Paz,5/7/2023,Loja,Ecuador,Festival
+425,Festival de Luces,2/18/2024,Loja,Ecuador,Festival
+426,Arte Urbano,4/4/2023,Cuenca,Ecuador,Exposición
+427,Concierto por la Paz,9/5/2024,Quito,Ecuador,Exposición
+428,Fiesta Musical,6/10/2024,Ambato,Ecuador,Evento Público
+429,Fiesta Musical,6/13/2023,Quito,Ecuador,Evento Público
+430,Fiesta Musical,9/8/2023,Quito,Ecuador,Festival
+431,Expo Cultura,11/20/2024,Guayaquil,Ecuador,Concierto
+432,Fiesta Musical,12/16/2023,Cuenca,Ecuador,Festival
+433,Fiesta Musical,10/2/2023,Ambato,Ecuador,Evento Público
+434,Expo Cultura,3/30/2023,Ambato,Ecuador,Concierto
+435,Fiesta Musical,3/21/2023,Cuenca,Ecuador,Festival
+436,Festival Andino,1/29/2024,Quito,Ecuador,Concierto
+437,Arte Urbano,8/21/2023,Loja,Ecuador,Evento Público
+438,Arte Urbano,12/30/2023,Quito,Ecuador,Festival
+439,Expo Cultura,3/2/2025,Loja,Ecuador,Evento Público
+440,Arte Urbano,7/13/2024,Ambato,Ecuador,Concierto
+441,Cultura Viva,3/23/2024,Guayaquil,Ecuador,Exposición
+442,Cultura Viva,4/26/2025,Loja,Ecuador,Evento Público
+443,Cultura Viva,1/8/2024,Guayaquil,Ecuador,Exposición
+444,Noche de Jazz,9/30/2023,Guayaquil,Ecuador,Festival
+445,Festival de Luces,1/9/2025,Ambato,Ecuador,Concierto
+446,Concierto por la Paz,8/11/2025,Cuenca,Ecuador,Concierto
+447,Expo Cultura,3/18/2023,Cuenca,Ecuador,Evento Público
+448,Expo Cultura,3/10/2024,Ambato,Ecuador,Evento Público
+449,Expo Cultura,8/19/2023,Ambato,Ecuador,Concierto
+450,Cultura Viva,8/31/2024,Quito,Ecuador,Concierto
+451,Fiesta Musical,6/30/2023,Loja,Ecuador,Concierto
+452,Concierto por la Paz,2/9/2023,Ambato,Ecuador,Evento Público
+453,Noche de Jazz,11/27/2024,Loja,Ecuador,Concierto
+454,Expo Cultura,7/3/2025,Guayaquil,Ecuador,Festival
+455,Concierto por la Paz,5/14/2024,Cuenca,Ecuador,Exposición
+456,Noche de Jazz,1/10/2023,Guayaquil,Ecuador,Exposición
+457,Arte Urbano,3/6/2023,Cuenca,Ecuador,Concierto
+458,Expo Cultura,11/1/2023,Ambato,Ecuador,Festival
+459,Cultura Viva,4/19/2023,Cuenca,Ecuador,Exposición
+460,Festival de Luces,2/16/2024,Cuenca,Ecuador,Evento Público
+461,Festival de Luces,4/4/2023,Quito,Ecuador,Evento Público
+462,Noche de Jazz,1/10/2025,Ambato,Ecuador,Evento Público
+463,Noche de Jazz,1/23/2025,Guayaquil,Ecuador,Festival
+464,Cultura Viva,1/29/2025,Cuenca,Ecuador,Evento Público
+465,Cultura Viva,10/14/2023,Loja,Ecuador,Festival
+466,Expo Cultura,11/8/2023,Cuenca,Ecuador,Festival
+467,Fiesta Musical,9/6/2024,Quito,Ecuador,Evento Público
+468,Concierto por la Paz,7/17/2025,Loja,Ecuador,Concierto
+469,Arte Urbano,9/6/2025,Ambato,Ecuador,Festival
+470,Festival de Luces,2/2/2025,Ambato,Ecuador,Festival
+471,Concierto por la Paz,7/28/2024,Cuenca,Ecuador,Concierto
+472,Noche de Jazz,9/11/2023,Ambato,Ecuador,Festival
+473,Concierto por la Paz,1/17/2025,Loja,Ecuador,Concierto
+474,Noche de Jazz,4/4/2024,Loja,Ecuador,Festival
+475,Noche de Jazz,6/12/2024,Loja,Ecuador,Exposición
+476,Concierto por la Paz,9/11/2025,Loja,Ecuador,Exposición
+477,Noche de Jazz,12/6/2024,Ambato,Ecuador,Evento Público
+478,Fiesta Musical,6/12/2024,Quito,Ecuador,Festival
+479,Fiesta Musical,6/30/2025,Quito,Ecuador,Concierto
+480,Festival de Luces,2/1/2023,Loja,Ecuador,Evento Público
+481,Arte Urbano,7/4/2024,Guayaquil,Ecuador,Evento Público
+482,Fiesta Musical,9/20/2025,Loja,Ecuador,Evento Público
+483,Arte Urbano,2/22/2023,Ambato,Ecuador,Evento Público
+484,Arte Urbano,6/3/2024,Ambato,Ecuador,Exposición
+485,Fiesta Musical,7/31/2023,Ambato,Ecuador,Exposición
+486,Fiesta Musical,7/27/2023,Guayaquil,Ecuador,Evento Público
+487,Concierto por la Paz,12/30/2024,Ambato,Ecuador,Evento Público
+488,Expo Cultura,3/17/2025,Loja,Ecuador,Exposición
+489,Cultura Viva,5/21/2025,Cuenca,Ecuador,Concierto
+490,Festival Andino,8/1/2023,Loja,Ecuador,Concierto
+491,Cultura Viva,3/26/2025,Guayaquil,Ecuador,Festival
+492,Fiesta Musical,7/24/2023,Ambato,Ecuador,Evento Público
+493,Cultura Viva,8/25/2025,Cuenca,Ecuador,Concierto
+494,Festival de Luces,6/12/2023,Guayaquil,Ecuador,Exposición
+495,Festival de Luces,7/30/2024,Ambato,Ecuador,Exposición
+496,Fiesta Musical,7/15/2023,Loja,Ecuador,Festival
+497,Arte Urbano,1/20/2023,Quito,Ecuador,Exposición
+498,Festival Andino,4/12/2025,Loja,Ecuador,Evento Público
+499,Arte Urbano,4/6/2025,Guayaquil,Ecuador,Exposición
+500,Expo Cultura,4/7/2024,Loja,Ecuador,Concierto
+501,Arte Urbano,8/6/2024,Quito,Ecuador,Concierto
+502,Festival de Luces,5/20/2023,Loja,Ecuador,Exposición
+503,Expo Cultura,6/17/2024,Cuenca,Ecuador,Festival
+504,Fiesta Musical,1/12/2025,Quito,Ecuador,Evento Público
+505,Noche de Jazz,1/29/2024,Ambato,Ecuador,Exposición
+506,Arte Urbano,9/26/2025,Quito,Ecuador,Festival
+507,Fiesta Musical,12/2/2024,Guayaquil,Ecuador,Festival
+508,Fiesta Musical,2/10/2023,Cuenca,Ecuador,Festival
+509,Festival de Luces,3/22/2025,Guayaquil,Ecuador,Concierto
+510,Festival Andino,3/27/2025,Quito,Ecuador,Concierto
+511,Festival de Luces,11/30/2023,Ambato,Ecuador,Evento Público
+512,Expo Cultura,6/2/2025,Quito,Ecuador,Evento Público
+513,Expo Cultura,3/11/2025,Loja,Ecuador,Exposición
+514,Noche de Jazz,6/21/2024,Ambato,Ecuador,Festival
+515,Cultura Viva,1/1/2024,Loja,Ecuador,Evento Público
+516,Fiesta Musical,5/9/2025,Loja,Ecuador,Concierto
+517,Arte Urbano,7/26/2025,Ambato,Ecuador,Exposición
+518,Arte Urbano,9/26/2023,Loja,Ecuador,Evento Público
+519,Festival de Luces,9/4/2025,Cuenca,Ecuador,Exposición
+520,Noche de Jazz,3/27/2023,Quito,Ecuador,Festival
+521,Festival Andino,9/16/2023,Cuenca,Ecuador,Concierto
+522,Cultura Viva,2/13/2024,Guayaquil,Ecuador,Evento Público
+523,Festival de Luces,7/10/2024,Cuenca,Ecuador,Festival
+524,Concierto por la Paz,9/14/2023,Guayaquil,Ecuador,Concierto
+525,Festival de Luces,7/4/2024,Loja,Ecuador,Exposición
+526,Expo Cultura,1/3/2023,Loja,Ecuador,Exposición
+527,Festival de Luces,4/20/2024,Guayaquil,Ecuador,Concierto
+528,Noche de Jazz,8/24/2023,Cuenca,Ecuador,Concierto
+529,Cultura Viva,9/11/2025,Quito,Ecuador,Evento Público
+530,Festival Andino,2/7/2024,Quito,Ecuador,Festival
+531,Concierto por la Paz,10/12/2024,Guayaquil,Ecuador,Evento Público
+532,Expo Cultura,10/10/2023,Quito,Ecuador,Evento Público
+533,Expo Cultura,7/18/2023,Ambato,Ecuador,Evento Público
+534,Cultura Viva,1/17/2024,Loja,Ecuador,Festival
+535,Cultura Viva,8/15/2025,Guayaquil,Ecuador,Exposición
+536,Festival de Luces,3/8/2024,Quito,Ecuador,Evento Público
+537,Fiesta Musical,6/10/2025,Quito,Ecuador,Evento Público
+538,Fiesta Musical,9/17/2024,Quito,Ecuador,Festival
+539,Concierto por la Paz,5/7/2023,Guayaquil,Ecuador,Exposición
+540,Noche de Jazz,7/12/2025,Loja,Ecuador,Evento Público
+541,Arte Urbano,8/10/2025,Quito,Ecuador,Evento Público
+542,Noche de Jazz,4/9/2023,Cuenca,Ecuador,Evento Público
+543,Concierto por la Paz,5/15/2024,Loja,Ecuador,Evento Público
+544,Festival de Luces,11/7/2023,Quito,Ecuador,Concierto
+545,Arte Urbano,5/2/2025,Guayaquil,Ecuador,Exposición
+546,Cultura Viva,11/23/2024,Ambato,Ecuador,Exposición
+547,Expo Cultura,4/20/2023,Quito,Ecuador,Exposición
+548,Expo Cultura,4/27/2023,Cuenca,Ecuador,Festival
+549,Festival Andino,10/31/2023,Cuenca,Ecuador,Exposición
+550,Festival Andino,3/31/2025,Guayaquil,Ecuador,Festival
+551,Cultura Viva,9/11/2025,Quito,Ecuador,Evento Público
+552,Fiesta Musical,1/24/2025,Cuenca,Ecuador,Festival
+553,Festival Andino,9/28/2023,Guayaquil,Ecuador,Exposición
+554,Cultura Viva,9/20/2025,Cuenca,Ecuador,Concierto
+555,Festival de Luces,1/22/2024,Loja,Ecuador,Exposición
+556,Festival de Luces,5/15/2023,Cuenca,Ecuador,Exposición
+557,Fiesta Musical,10/3/2024,Loja,Ecuador,Concierto
+558,Expo Cultura,7/12/2023,Loja,Ecuador,Exposición
+559,Fiesta Musical,5/31/2023,Guayaquil,Ecuador,Concierto
+560,Noche de Jazz,12/18/2023,Cuenca,Ecuador,Festival
+561,Arte Urbano,6/3/2023,Guayaquil,Ecuador,Concierto
+562,Festival Andino,3/28/2023,Guayaquil,Ecuador,Festival
+563,Festival Andino,6/22/2023,Loja,Ecuador,Concierto
+564,Expo Cultura,8/22/2024,Ambato,Ecuador,Evento Público
+565,Concierto por la Paz,10/6/2023,Cuenca,Ecuador,Festival
+566,Festival de Luces,11/13/2023,Quito,Ecuador,Concierto
+567,Cultura Viva,4/2/2025,Ambato,Ecuador,Festival
+568,Cultura Viva,1/15/2024,Guayaquil,Ecuador,Concierto
+569,Fiesta Musical,6/2/2025,Ambato,Ecuador,Evento Público
+570,Noche de Jazz,9/29/2023,Guayaquil,Ecuador,Exposición
+571,Fiesta Musical,10/14/2024,Ambato,Ecuador,Evento Público
+572,Fiesta Musical,1/23/2023,Loja,Ecuador,Festival
+573,Noche de Jazz,3/30/2023,Quito,Ecuador,Festival
+574,Cultura Viva,10/15/2024,Guayaquil,Ecuador,Festival
+575,Noche de Jazz,3/18/2025,Ambato,Ecuador,Evento Público
+576,Noche de Jazz,12/28/2024,Quito,Ecuador,Exposición
+577,Festival Andino,1/29/2025,Cuenca,Ecuador,Concierto
+578,Arte Urbano,5/29/2023,Guayaquil,Ecuador,Evento Público
+579,Festival de Luces,2/22/2023,Cuenca,Ecuador,Concierto
+580,Arte Urbano,8/11/2024,Loja,Ecuador,Festival
+581,Noche de Jazz,2/21/2024,Cuenca,Ecuador,Festival
+582,Cultura Viva,3/2/2023,Cuenca,Ecuador,Evento Público
+583,Cultura Viva,12/24/2024,Quito,Ecuador,Evento Público
+584,Concierto por la Paz,2/5/2023,Loja,Ecuador,Evento Público
+585,Noche de Jazz,5/30/2025,Loja,Ecuador,Exposición
+586,Cultura Viva,7/17/2025,Guayaquil,Ecuador,Exposición
+587,Noche de Jazz,4/3/2025,Loja,Ecuador,Concierto
+588,Concierto por la Paz,5/22/2025,Ambato,Ecuador,Festival
+589,Festival de Luces,6/15/2023,Ambato,Ecuador,Exposición
+590,Festival de Luces,5/1/2023,Cuenca,Ecuador,Exposición
+591,Arte Urbano,6/1/2024,Cuenca,Ecuador,Evento Público
+592,Cultura Viva,2/17/2023,Quito,Ecuador,Exposición
+593,Fiesta Musical,5/4/2025,Ambato,Ecuador,Exposición
+594,Expo Cultura,9/1/2024,Cuenca,Ecuador,Exposición
+595,Arte Urbano,4/25/2023,Loja,Ecuador,Evento Público
+596,Arte Urbano,4/18/2024,Loja,Ecuador,Festival
+597,Noche de Jazz,2/23/2023,Guayaquil,Ecuador,Festival
+598,Noche de Jazz,12/12/2023,Quito,Ecuador,Evento Público
+599,Noche de Jazz,2/1/2023,Cuenca,Ecuador,Concierto
+600,Fiesta Musical,8/25/2024,Loja,Ecuador,Exposición
+601,Cultura Viva,1/5/2023,Loja,Ecuador,Evento Público
+602,Concierto por la Paz,4/15/2024,Cuenca,Ecuador,Evento Público
+603,Arte Urbano,5/18/2024,Guayaquil,Ecuador,Exposición
+604,Noche de Jazz,3/13/2024,Cuenca,Ecuador,Exposición
+605,Arte Urbano,4/7/2024,Cuenca,Ecuador,Concierto
+606,Cultura Viva,1/6/2024,Loja,Ecuador,Evento Público
+607,Expo Cultura,3/23/2024,Loja,Ecuador,Festival
+608,Cultura Viva,9/30/2023,Ambato,Ecuador,Evento Público
+609,Cultura Viva,5/16/2023,Guayaquil,Ecuador,Evento Público
+610,Expo Cultura,1/30/2024,Loja,Ecuador,Exposición
+611,Concierto por la Paz,2/13/2023,Guayaquil,Ecuador,Festival
+612,Festival de Luces,5/1/2024,Quito,Ecuador,Festival
+613,Festival Andino,5/1/2023,Ambato,Ecuador,Evento Público
+614,Concierto por la Paz,10/18/2024,Ambato,Ecuador,Festival
+615,Noche de Jazz,6/27/2024,Guayaquil,Ecuador,Festival
+616,Festival de Luces,2/23/2023,Quito,Ecuador,Festival
+617,Fiesta Musical,8/29/2024,Cuenca,Ecuador,Concierto
+618,Concierto por la Paz,9/4/2025,Ambato,Ecuador,Exposición
+619,Festival de Luces,3/19/2024,Loja,Ecuador,Exposición
+620,Festival Andino,2/5/2023,Loja,Ecuador,Exposición
+621,Expo Cultura,4/14/2023,Cuenca,Ecuador,Festival
+622,Noche de Jazz,4/26/2024,Cuenca,Ecuador,Concierto
+623,Festival de Luces,4/21/2023,Ambato,Ecuador,Evento Público
+624,Cultura Viva,5/18/2023,Ambato,Ecuador,Festival
+625,Festival de Luces,5/12/2023,Ambato,Ecuador,Exposición
+626,Noche de Jazz,10/7/2024,Loja,Ecuador,Exposición
+627,Festival Andino,5/13/2023,Quito,Ecuador,Exposición
+628,Arte Urbano,11/26/2024,Loja,Ecuador,Concierto
+629,Fiesta Musical,7/20/2024,Ambato,Ecuador,Festival
+630,Festival de Luces,1/22/2023,Cuenca,Ecuador,Exposición
+631,Fiesta Musical,4/24/2024,Loja,Ecuador,Evento Público
+632,Festival de Luces,5/30/2023,Cuenca,Ecuador,Evento Público
+633,Expo Cultura,8/27/2023,Guayaquil,Ecuador,Festival
+634,Festival de Luces,4/9/2025,Cuenca,Ecuador,Evento Público
+635,Expo Cultura,1/14/2023,Cuenca,Ecuador,Festival
+636,Concierto por la Paz,1/7/2023,Cuenca,Ecuador,Concierto
+637,Cultura Viva,3/21/2023,Loja,Ecuador,Festival
+638,Cultura Viva,7/14/2024,Ambato,Ecuador,Exposición
+639,Fiesta Musical,11/18/2023,Loja,Ecuador,Festival
+640,Festival de Luces,7/3/2025,Quito,Ecuador,Evento Público
+641,Festival Andino,7/2/2024,Guayaquil,Ecuador,Festival
+642,Expo Cultura,1/1/2024,Cuenca,Ecuador,Concierto
+643,Cultura Viva,2/14/2024,Cuenca,Ecuador,Festival
+644,Fiesta Musical,7/29/2023,Cuenca,Ecuador,Concierto
+645,Fiesta Musical,9/27/2024,Loja,Ecuador,Concierto
+646,Noche de Jazz,6/6/2025,Quito,Ecuador,Festival
+647,Concierto por la Paz,8/12/2025,Quito,Ecuador,Festival
+648,Cultura Viva,9/13/2025,Loja,Ecuador,Concierto
+649,Concierto por la Paz,1/11/2025,Quito,Ecuador,Exposición
+650,Expo Cultura,10/11/2024,Quito,Ecuador,Exposición
+651,Fiesta Musical,12/5/2024,Ambato,Ecuador,Festival
+652,Expo Cultura,11/23/2023,Loja,Ecuador,Evento Público
+653,Festival Andino,12/19/2023,Ambato,Ecuador,Festival
+654,Concierto por la Paz,4/27/2024,Quito,Ecuador,Evento Público
+655,Festival de Luces,2/24/2024,Guayaquil,Ecuador,Evento Público
+656,Fiesta Musical,11/27/2023,Ambato,Ecuador,Evento Público
+657,Noche de Jazz,8/31/2024,Quito,Ecuador,Concierto
+658,Cultura Viva,12/16/2023,Ambato,Ecuador,Concierto
+659,Fiesta Musical,2/17/2024,Guayaquil,Ecuador,Evento Público
+660,Cultura Viva,11/7/2023,Guayaquil,Ecuador,Exposición
+661,Noche de Jazz,5/26/2025,Cuenca,Ecuador,Festival
+662,Fiesta Musical,4/3/2023,Quito,Ecuador,Evento Público
+663,Fiesta Musical,5/17/2024,Guayaquil,Ecuador,Festival
+664,Concierto por la Paz,7/31/2024,Loja,Ecuador,Exposición
+665,Noche de Jazz,11/2/2023,Guayaquil,Ecuador,Exposición
+666,Festival Andino,10/15/2024,Quito,Ecuador,Festival
+667,Cultura Viva,7/9/2023,Quito,Ecuador,Festival
+668,Cultura Viva,8/14/2025,Loja,Ecuador,Festival
+669,Festival de Luces,8/22/2025,Cuenca,Ecuador,Evento Público
+670,Cultura Viva,12/18/2023,Guayaquil,Ecuador,Exposición
+671,Festival Andino,2/12/2023,Ambato,Ecuador,Concierto
+672,Fiesta Musical,7/18/2024,Loja,Ecuador,Evento Público
+673,Expo Cultura,9/27/2024,Ambato,Ecuador,Exposición
+674,Festival Andino,6/14/2024,Guayaquil,Ecuador,Festival
+675,Cultura Viva,3/20/2025,Ambato,Ecuador,Evento Público
+676,Cultura Viva,9/19/2024,Guayaquil,Ecuador,Exposición
+677,Arte Urbano,7/6/2024,Loja,Ecuador,Concierto
+678,Festival de Luces,5/6/2024,Loja,Ecuador,Exposición
+679,Expo Cultura,6/28/2024,Loja,Ecuador,Festival
+680,Festival de Luces,2/14/2025,Quito,Ecuador,Evento Público
+681,Noche de Jazz,12/28/2023,Guayaquil,Ecuador,Evento Público
+682,Festival de Luces,3/24/2023,Loja,Ecuador,Concierto
+683,Concierto por la Paz,11/10/2024,Loja,Ecuador,Festival
+684,Cultura Viva,1/5/2024,Cuenca,Ecuador,Exposición
+685,Expo Cultura,5/4/2025,Ambato,Ecuador,Concierto
+686,Arte Urbano,9/4/2023,Loja,Ecuador,Evento Público
+687,Expo Cultura,4/29/2024,Ambato,Ecuador,Concierto
+688,Fiesta Musical,8/6/2023,Quito,Ecuador,Exposición
+689,Noche de Jazz,2/24/2023,Loja,Ecuador,Exposición
+690,Festival de Luces,5/21/2024,Cuenca,Ecuador,Evento Público
+691,Festival de Luces,8/2/2025,Ambato,Ecuador,Concierto
+692,Noche de Jazz,5/19/2024,Guayaquil,Ecuador,Concierto
+693,Concierto por la Paz,5/29/2023,Quito,Ecuador,Festival
+694,Festival Andino,11/29/2024,Guayaquil,Ecuador,Festival
+695,Festival de Luces,12/23/2023,Cuenca,Ecuador,Concierto
+696,Festival Andino,5/7/2023,Ambato,Ecuador,Evento Público
+697,Festival Andino,2/19/2023,Ambato,Ecuador,Evento Público
+698,Cultura Viva,6/28/2024,Cuenca,Ecuador,Festival
+699,Expo Cultura,2/28/2023,Ambato,Ecuador,Concierto
+700,Concierto por la Paz,8/23/2025,Cuenca,Ecuador,Festival
+701,Fiesta Musical,10/16/2024,Guayaquil,Ecuador,Concierto
+702,Noche de Jazz,5/27/2023,Guayaquil,Ecuador,Exposición
+703,Fiesta Musical,8/23/2023,Loja,Ecuador,Concierto
+704,Expo Cultura,10/20/2024,Guayaquil,Ecuador,Exposición
+705,Concierto por la Paz,1/27/2024,Ambato,Ecuador,Festival
+706,Noche de Jazz,10/20/2024,Cuenca,Ecuador,Exposición
+707,Festival de Luces,6/15/2025,Quito,Ecuador,Evento Público
+708,Noche de Jazz,7/15/2023,Guayaquil,Ecuador,Exposición
+709,Cultura Viva,8/8/2024,Loja,Ecuador,Concierto
+710,Concierto por la Paz,2/18/2023,Ambato,Ecuador,Evento Público
+711,Expo Cultura,12/20/2023,Cuenca,Ecuador,Evento Público
+712,Fiesta Musical,3/29/2025,Cuenca,Ecuador,Concierto
+713,Arte Urbano,10/28/2024,Loja,Ecuador,Concierto
+714,Festival Andino,1/18/2024,Quito,Ecuador,Concierto
+715,Concierto por la Paz,1/4/2025,Loja,Ecuador,Festival
+716,Noche de Jazz,10/16/2024,Ambato,Ecuador,Concierto
+717,Cultura Viva,4/19/2025,Cuenca,Ecuador,Festival
+718,Expo Cultura,3/24/2024,Loja,Ecuador,Evento Público
+719,Arte Urbano,5/28/2025,Cuenca,Ecuador,Exposición
+720,Arte Urbano,12/28/2024,Loja,Ecuador,Concierto
+721,Concierto por la Paz,7/25/2023,Cuenca,Ecuador,Concierto
+722,Festival de Luces,2/22/2024,Guayaquil,Ecuador,Evento Público
+723,Noche de Jazz,5/2/2024,Ambato,Ecuador,Festival
+724,Cultura Viva,5/1/2024,Ambato,Ecuador,Concierto
+725,Arte Urbano,8/25/2025,Loja,Ecuador,Evento Público
+726,Festival Andino,9/14/2025,Quito,Ecuador,Exposición
+727,Festival de Luces,1/15/2023,Ambato,Ecuador,Concierto
+728,Festival Andino,10/2/2023,Cuenca,Ecuador,Evento Público
+729,Festival de Luces,8/19/2023,Quito,Ecuador,Exposición
+730,Concierto por la Paz,4/18/2025,Cuenca,Ecuador,Concierto
+731,Noche de Jazz,1/24/2023,Quito,Ecuador,Festival
+732,Expo Cultura,9/27/2024,Cuenca,Ecuador,Concierto
+733,Arte Urbano,3/22/2025,Guayaquil,Ecuador,Exposición
+734,Festival de Luces,4/29/2025,Quito,Ecuador,Festival
+735,Noche de Jazz,8/31/2024,Guayaquil,Ecuador,Concierto
+736,Fiesta Musical,5/2/2025,Cuenca,Ecuador,Exposición
+737,Festival Andino,1/30/2024,Cuenca,Ecuador,Evento Público
+738,Festival de Luces,5/12/2025,Quito,Ecuador,Exposición
+739,Festival Andino,4/22/2024,Cuenca,Ecuador,Exposición
+740,Festival Andino,2/7/2025,Guayaquil,Ecuador,Festival
+741,Cultura Viva,12/14/2023,Ambato,Ecuador,Exposición
+742,Noche de Jazz,12/28/2024,Loja,Ecuador,Evento Público
+743,Arte Urbano,8/7/2024,Ambato,Ecuador,Concierto
+744,Noche de Jazz,1/7/2024,Cuenca,Ecuador,Concierto
+745,Noche de Jazz,1/23/2023,Loja,Ecuador,ExposiciÃ³n
+746,Fiesta Musical,7/10/2024,Quito,Ecuador,Concierto
+747,Festival Andino,2/9/2023,Loja,Ecuador,Evento Público
+748,Noche de Jazz,5/10/2025,Loja,Ecuador,Evento Público
+749,Concierto por la Paz,7/18/2023,Cuenca,Ecuador,Evento Público
+750,Arte Urbano,9/6/2024,Cuenca,Ecuador,Festival
+751,Festival de Luces,12/22/2023,Quito,Ecuador,Concierto
+752,Noche de Jazz,6/12/2023,Loja,Ecuador,Festival
+753,Noche de Jazz,2/3/2023,Quito,Ecuador,Concierto
+754,Concierto por la Paz,7/22/2023,Guayaquil,Ecuador,Festival
+755,Noche de Jazz,2/9/2025,Guayaquil,Ecuador,Exposición
+756,Noche de Jazz,3/8/2024,Quito,Ecuador,Exposición
+757,Expo Cultura,9/4/2023,Cuenca,Ecuador,Concierto
+758,Concierto por la Paz,11/20/2024,Guayaquil,Ecuador,Exposición
+759,Noche de Jazz,3/15/2024,Cuenca,Ecuador,Evento Público
+760,Festival de Luces,11/13/2024,Cuenca,Ecuador,Concierto
+761,Fiesta Musical,7/12/2024,Cuenca,Ecuador,Exposición
+762,Cultura Viva,11/14/2023,Cuenca,Ecuador,Evento Público
+763,Noche de Jazz,4/17/2024,Guayaquil,Ecuador,Evento Público
+764,Fiesta Musical,5/6/2023,Guayaquil,Ecuador,Concierto
+765,Expo Cultura,4/22/2023,Cuenca,Ecuador,Festival
+766,Fiesta Musical,5/26/2024,Quito,Ecuador,Evento Público
+767,Arte Urbano,8/16/2023,Quito,Ecuador,Exposición
+768,Arte Urbano,2/1/2024,Ambato,Ecuador,Exposición
+769,Noche de Jazz,11/22/2024,Cuenca,Ecuador,Festival
+770,Noche de Jazz,1/17/2025,Ambato,Ecuador,Exposición
+771,Concierto por la Paz,6/2/2024,Cuenca,Ecuador,Exposición
+772,Arte Urbano,10/28/2023,Ambato,Ecuador,Exposición
+773,Concierto por la Paz,8/21/2025,Quito,Ecuador,Exposición
+774,Festival de Luces,10/31/2023,Quito,Ecuador,Festival
+775,Cultura Viva,10/16/2023,Loja,Ecuador,Festival
+776,Noche de Jazz,1/15/2025,Loja,Ecuador,Evento Público
+777,Fiesta Musical,3/23/2023,Loja,Ecuador,Concierto
+778,Expo Cultura,6/1/2025,Loja,Ecuador,Festival
+779,Arte Urbano,12/8/2024,Quito,Ecuador,Concierto
+780,Festival de Luces,4/28/2025,Guayaquil,Ecuador,Evento Público
+781,Fiesta Musical,2/21/2024,Guayaquil,Ecuador,Exposición
+782,Noche de Jazz,2/4/2023,Quito,Ecuador,Festival
+783,Arte Urbano,12/15/2023,Quito,Ecuador,Evento Público
+784,Arte Urbano,5/30/2023,Loja,Ecuador,Exposición
+785,Cultura Viva,6/16/2024,Cuenca,Ecuador,Festival
+786,Fiesta Musical,12/20/2023,Loja,Ecuador,Exposición
+787,Fiesta Musical,9/1/2023,Guayaquil,Ecuador,Evento Público
+788,Concierto por la Paz,12/1/2024,Guayaquil,Ecuador,Festival
+789,Arte Urbano,6/5/2025,Guayaquil,Ecuador,Concierto
+790,Arte Urbano,3/18/2024,Quito,Ecuador,Evento Público
+791,Fiesta Musical,11/20/2024,Ambato,Ecuador,Evento Público
+792,Noche de Jazz,11/20/2023,Quito,Ecuador,Exposición
+793,Fiesta Musical,11/29/2023,Cuenca,Ecuador,Concierto
+794,Fiesta Musical,8/21/2023,Ambato,Ecuador,Evento Público
+795,Expo Cultura,8/30/2025,Quito,Ecuador,Festival
+796,Festival Andino,1/25/2024,Guayaquil,Ecuador,Festival
+797,Concierto por la Paz,11/1/2023,Loja,Ecuador,Exposición
+798,Fiesta Musical,8/31/2024,Guayaquil,Ecuador,Evento Público
+799,Fiesta Musical,7/14/2023,Ambato,Ecuador,Festival
+800,Concierto por la Paz,10/29/2024,Quito,Ecuador,Exposición
+801,Festival Andino,10/18/2024,Cuenca,Ecuador,Concierto
+802,Arte Urbano,8/30/2024,Guayaquil,Ecuador,Concierto
+803,Cultura Viva,3/27/2024,Ambato,Ecuador,Evento Público
+804,Concierto por la Paz,5/21/2025,Quito,Ecuador,Evento Público
+805,Concierto por la Paz,10/26/2024,Guayaquil,Ecuador,Festival
+806,Festival Andino,1/24/2025,Guayaquil,Ecuador,Exposición
+807,Cultura Viva,4/22/2024,Ambato,Ecuador,Exposición
+808,Noche de Jazz,6/16/2023,Quito,Ecuador,Concierto
+809,Festival Andino,8/18/2024,Ambato,Ecuador,Evento Público
+810,Expo Cultura,4/18/2023,Loja,Ecuador,Festival
+811,Expo Cultura,2/14/2023,Quito,Ecuador,Exposición
+812,Concierto por la Paz,9/2/2024,Loja,Ecuador,Concierto
+813,Expo Cultura,1/5/2023,Loja,Ecuador,Concierto
+814,Festival Andino,5/20/2023,Cuenca,Ecuador,Festival
+815,Festival Andino,7/2/2024,Cuenca,Ecuador,Concierto
+816,Noche de Jazz,2/16/2025,Loja,Ecuador,Evento Público
+817,Concierto por la Paz,4/14/2024,Guayaquil,Ecuador,Festival
+818,Arte Urbano,9/17/2023,Quito,Ecuador,Festival
+819,Arte Urbano,8/28/2025,Ambato,Ecuador,Festival
+820,Arte Urbano,1/30/2025,Cuenca,Ecuador,Concierto
+821,Fiesta Musical,8/26/2025,Cuenca,Ecuador,Exposición
+822,Festival de Luces,1/7/2023,Quito,Ecuador,Evento Público
+823,Concierto por la Paz,10/28/2024,Cuenca,Ecuador,Concierto
+824,Arte Urbano,4/7/2023,Ambato,Ecuador,Festival
+825,Expo Cultura,7/31/2024,Ambato,Ecuador,Festival
+826,Festival de Luces,5/24/2023,Ambato,Ecuador,Evento Público
+827,Festival de Luces,1/15/2024,Loja,Ecuador,Concierto
+828,Arte Urbano,9/20/2025,Guayaquil,Ecuador,Concierto
+829,Cultura Viva,5/19/2025,Quito,Ecuador,Festival
+830,Festival de Luces,9/2/2025,Quito,Ecuador,Evento Público
+831,Arte Urbano,3/7/2024,Cuenca,Ecuador,Festival
+832,Concierto por la Paz,6/28/2025,Quito,Ecuador,Evento Público
+833,Concierto por la Paz,11/29/2024,Guayaquil,Ecuador,Concierto
+834,Noche de Jazz,7/31/2023,Loja,Ecuador,Exposición
+835,Noche de Jazz,3/21/2024,Ambato,Ecuador,Exposición
+836,Festival Andino,7/30/2025,Guayaquil,Ecuador,Evento Público
+837,Noche de Jazz,8/19/2023,Quito,Ecuador,Evento Público
+838,Festival Andino,6/12/2024,Guayaquil,Ecuador,Concierto
+839,Fiesta Musical,7/20/2023,Ambato,Ecuador,Concierto
+840,Festival de Luces,2/8/2023,Cuenca,Ecuador,Festival
+841,Arte Urbano,10/3/2023,Quito,Ecuador,Evento Público
+842,Fiesta Musical,5/19/2023,Quito,Ecuador,Evento Público
+843,Expo Cultura,8/5/2023,Cuenca,Ecuador,Evento Público
+844,Arte Urbano,3/27/2024,Loja,Ecuador,Evento Público
+845,Festival de Luces,9/11/2023,Cuenca,Ecuador,Exposición
+846,Expo Cultura,8/21/2025,Ambato,Ecuador,Evento Público
+847,Noche de Jazz,7/27/2023,Loja,Ecuador,Evento Público
+848,Noche de Jazz,6/15/2025,Cuenca,Ecuador,Evento Público
+849,Expo Cultura,11/9/2024,Ambato,Ecuador,Festival
+850,Concierto por la Paz,7/21/2025,Quito,Ecuador,Exposición
+851,Expo Cultura,9/14/2025,Guayaquil,Ecuador,Evento Público
+852,Arte Urbano,8/13/2024,Guayaquil,Ecuador,Concierto
+853,Festival Andino,12/27/2023,Guayaquil,Ecuador,Concierto
+854,Fiesta Musical,3/24/2025,Loja,Ecuador,Evento Público
+855,Festival de Luces,12/5/2024,Guayaquil,Ecuador,Festival
+856,Expo Cultura,2/22/2025,Cuenca,Ecuador,Concierto
+857,Fiesta Musical,10/14/2023,Guayaquil,Ecuador,Exposición
+858,Expo Cultura,4/22/2024,Cuenca,Ecuador,Evento Público
+859,Festival de Luces,3/7/2024,Cuenca,Ecuador,Concierto
+860,Festival Andino,6/28/2023,Guayaquil,Ecuador,Festival
+861,Festival Andino,6/17/2025,Loja,Ecuador,Concierto
+862,Expo Cultura,10/4/2024,Ambato,Ecuador,Exposición
+863,Cultura Viva,7/26/2024,Ambato,Ecuador,Concierto
+864,Cultura Viva,8/19/2024,Ambato,Ecuador,Concierto
+865,Cultura Viva,8/26/2023,Ambato,Ecuador,Exposición
+866,Arte Urbano,12/21/2024,Quito,Ecuador,Festival
+867,Cultura Viva,1/2/2024,Cuenca,Ecuador,Evento Público
+868,Festival de Luces,2/5/2024,Guayaquil,Ecuador,Festival
+869,Arte Urbano,12/26/2024,Loja,Ecuador,Festival
+870,Noche de Jazz,8/19/2025,Cuenca,Ecuador,Festival
+871,Arte Urbano,7/22/2024,Cuenca,Ecuador,Exposición
+872,Arte Urbano,9/30/2024,Ambato,Ecuador,Concierto
+873,Noche de Jazz,4/17/2025,Quito,Ecuador,Exposición
+874,Arte Urbano,1/17/2025,Loja,Ecuador,Concierto
+875,Noche de Jazz,5/16/2024,Loja,Ecuador,Evento Público
+876,Arte Urbano,9/6/2024,Quito,Ecuador,Festival
+877,Expo Cultura,4/20/2024,Ambato,Ecuador,Evento Público
+878,Arte Urbano,5/27/2023,Cuenca,Ecuador,Exposición
+879,Noche de Jazz,8/22/2024,Cuenca,Ecuador,Concierto
+880,Festival de Luces,9/9/2023,Cuenca,Ecuador,Concierto
+881,Cultura Viva,12/16/2023,Ambato,Ecuador,Evento Público
+882,Concierto por la Paz,8/16/2024,Cuenca,Ecuador,Festival
+883,Arte Urbano,11/28/2023,Cuenca,Ecuador,Concierto
+884,Fiesta Musical,9/9/2023,Ambato,Ecuador,Exposición
+885,Expo Cultura,3/2/2023,Ambato,Ecuador,Evento Público
+886,Expo Cultura,5/1/2023,Ambato,Ecuador,Concierto
+887,Fiesta Musical,4/19/2023,Cuenca,Ecuador,Evento Público
+888,Festival de Luces,8/8/2025,Quito,Ecuador,Festival
+889,Concierto por la Paz,12/7/2024,Ambato,Ecuador,Concierto
+890,Festival de Luces,4/18/2025,Loja,Ecuador,Evento Público
+891,Expo Cultura,5/23/2023,Quito,Ecuador,Concierto
+892,Expo Cultura,9/10/2024,Quito,Ecuador,Concierto
+893,Concierto por la Paz,9/21/2023,Cuenca,Ecuador,Festival
+894,Festival de Luces,1/4/2023,Guayaquil,Ecuador,Evento Público
+895,Arte Urbano,3/6/2024,Cuenca,Ecuador,Evento Público
+896,Festival de Luces,12/22/2023,Ambato,Ecuador,Exposición
+897,Festival Andino,1/2/2025,Loja,Ecuador,Evento Público
+898,Festival Andino,8/1/2023,Loja,Ecuador,Festival
+899,Concierto por la Paz,1/31/2023,Quito,Ecuador,Exposición
+900,Festival de Luces,6/28/2025,Cuenca,Ecuador,Concierto
+901,Noche de Jazz,5/29/2024,Cuenca,Ecuador,Exposición
+902,Cultura Viva,9/9/2023,Ambato,Ecuador,Concierto
+903,Noche de Jazz,6/7/2023,Ambato,Ecuador,Evento Público
+904,Festival de Luces,6/9/2025,Loja,Ecuador,Festival
+905,Cultura Viva,2/1/2025,Loja,Ecuador,Evento Público
+906,Cultura Viva,4/20/2023,Loja,Ecuador,Evento Público
+907,Arte Urbano,11/8/2023,Ambato,Ecuador,Evento Público
+908,Concierto por la Paz,3/12/2023,Quito,Ecuador,Festival
+909,Festival Andino,6/2/2025,Guayaquil,Ecuador,Concierto
+910,Noche de Jazz,1/28/2025,Ambato,Ecuador,Exposición
+911,Arte Urbano,10/22/2023,Loja,Ecuador,Evento Público
+912,Concierto por la Paz,8/17/2025,Loja,Ecuador,Concierto
+913,Expo Cultura,7/6/2024,Loja,Ecuador,Evento Público
+914,Festival de Luces,1/20/2023,Loja,Ecuador,Concierto
+915,Cultura Viva,7/8/2025,Ambato,Ecuador,Evento Público
+916,Festival de Luces,2/8/2025,Cuenca,Ecuador,Concierto
+917,Festival Andino,1/26/2024,Ambato,Ecuador,Exposición
+918,Fiesta Musical,8/6/2023,Cuenca,Ecuador,Exposición
+919,Fiesta Musical,12/6/2023,Ambato,Ecuador,Exposición
+920,Noche de Jazz,5/21/2024,Cuenca,Ecuador,Evento Público
+921,Concierto por la Paz,8/20/2025,Loja,Ecuador,Evento Público
+922,Concierto por la Paz,7/27/2025,Ambato,Ecuador,Festival
+923,Festival de Luces,5/13/2024,Ambato,Ecuador,Festival
+924,Expo Cultura,9/25/2024,Quito,Ecuador,Exposición
+925,Festival Andino,9/28/2024,Guayaquil,Ecuador,Festival
+926,Noche de Jazz,2/11/2024,Ambato,Ecuador,Exposición
+927,Festival de Luces,4/27/2023,Cuenca,Ecuador,Concierto
+928,Noche de Jazz,5/21/2025,Quito,Ecuador,Concierto
+929,Fiesta Musical,3/27/2023,Cuenca,Ecuador,Exposición
+930,Noche de Jazz,5/2/2023,Ambato,Ecuador,Festival
+931,Concierto por la Paz,7/12/2025,Guayaquil,Ecuador,Festival
+932,Expo Cultura,6/2/2024,Guayaquil,Ecuador,Exposición
+933,Festival de Luces,1/11/2024,Quito,Ecuador,Evento Público
+934,Fiesta Musical,1/6/2025,Guayaquil,Ecuador,Concierto
+935,Cultura Viva,6/7/2025,Cuenca,Ecuador,Exposición
+936,Cultura Viva,12/24/2024,Loja,Ecuador,Concierto
+937,Cultura Viva,7/27/2024,Loja,Ecuador,Evento Público
+938,Noche de Jazz,7/9/2023,Quito,Ecuador,Concierto
+939,Noche de Jazz,9/10/2023,Cuenca,Ecuador,Exposición
+940,Concierto por la Paz,4/10/2025,Quito,Ecuador,Exposición
+941,Noche de Jazz,7/14/2024,Ambato,Ecuador,Concierto
+942,Expo Cultura,4/13/2023,Ambato,Ecuador,Concierto
+943,Expo Cultura,9/2/2023,Quito,Ecuador,Concierto
+944,Festival de Luces,10/27/2024,Quito,Ecuador,Exposición
+945,Concierto por la Paz,6/8/2024,Ambato,Ecuador,Festival
+946,Concierto por la Paz,4/8/2023,Guayaquil,Ecuador,Festival
+947,Cultura Viva,6/6/2023,Guayaquil,Ecuador,Festival
+948,Cultura Viva,11/16/2024,Cuenca,Ecuador,Festival
+949,Festival Andino,8/20/2025,Quito,Ecuador,Festival
+950,Fiesta Musical,3/2/2025,Cuenca,Ecuador,Exposición
+951,Concierto por la Paz,7/13/2024,Guayaquil,Ecuador,Festival
+952,Fiesta Musical,1/14/2024,Cuenca,Ecuador,Festival
+953,Expo Cultura,8/23/2024,Cuenca,Ecuador,Festival
+954,Festival Andino,7/21/2024,Loja,Ecuador,Festival
+955,Fiesta Musical,6/7/2025,Cuenca,Ecuador,Evento Público
+956,Noche de Jazz,5/16/2024,Cuenca,Ecuador,Evento Público
+957,Concierto por la Paz,2/12/2024,Loja,Ecuador,Concierto
+958,Festival de Luces,6/23/2024,Ambato,Ecuador,Evento Público
+959,Cultura Viva,2/25/2024,Quito,Ecuador,Evento Público
+960,Festival de Luces,4/26/2023,Ambato,Ecuador,Evento Público
+961,Concierto por la Paz,12/5/2024,Cuenca,Ecuador,Festival
+962,Festival Andino,8/5/2024,Ambato,Ecuador,Concierto
+963,Cultura Viva,2/6/2023,Guayaquil,Ecuador,Evento Público
+964,Noche de Jazz,8/10/2023,Guayaquil,Ecuador,Evento Público
+965,Festival de Luces,11/7/2023,Guayaquil,Ecuador,Concierto
+966,Festival de Luces,9/21/2023,Loja,Ecuador,Exposición
+967,Arte Urbano,3/20/2023,Ambato,Ecuador,Concierto
+968,Noche de Jazz,12/25/2024,Loja,Ecuador,Exposición
+969,Noche de Jazz,1/2/2024,Ambato,Ecuador,Exposición
+970,Cultura Viva,9/19/2024,Loja,Ecuador,Concierto
+971,Expo Cultura,8/20/2023,Quito,Ecuador,Exposición
+972,Festival Andino,4/16/2025,Quito,Ecuador,Exposición
+973,Festival Andino,8/26/2024,Guayaquil,Ecuador,Concierto
+974,Festival Andino,12/30/2024,Quito,Ecuador,Concierto
+975,Concierto por la Paz,7/13/2025,Ambato,Ecuador,Concierto
+976,Festival Andino,4/5/2025,Cuenca,Ecuador,Festival
+977,Festival de Luces,8/9/2023,Quito,Ecuador,Festival
+978,Concierto por la Paz,1/18/2024,Ambato,Ecuador,Concierto
+979,Cultura Viva,12/24/2024,Quito,Ecuador,Festival
+980,Arte Urbano,5/13/2024,Guayaquil,Ecuador,Evento Público
+981,Arte Urbano,2/8/2023,Ambato,Ecuador,Festival
+982,Festival de Luces,2/2/2023,Cuenca,Ecuador,Evento Público
+983,Fiesta Musical,4/27/2024,Guayaquil,Ecuador,Festival
+984,Concierto por la Paz,8/27/2025,Loja,Ecuador,Concierto
+985,Festival Andino,8/3/2024,Quito,Ecuador,Festival
+986,Noche de Jazz,2/16/2025,Ambato,Ecuador,Concierto
+987,Festival Andino,7/18/2023,Cuenca,Ecuador,Festival
+988,Noche de Jazz,3/29/2025,Loja,Ecuador,Exposición
+989,Noche de Jazz,12/11/2024,Loja,Ecuador,Evento Público
+990,Festival Andino,4/6/2024,Ambato,Ecuador,Concierto
+991,Cultura Viva,1/22/2025,Quito,Ecuador,Exposición
+992,Fiesta Musical,7/23/2023,Guayaquil,Ecuador,Exposición
+993,Expo Cultura,9/6/2023,Loja,Ecuador,Festival
+994,Fiesta Musical,5/9/2023,Guayaquil,Ecuador,Festival
+995,Cultura Viva,8/23/2023,Ambato,Ecuador,Festival
+996,Festival de Luces,2/16/2023,Quito,Ecuador,Concierto
+997,Expo Cultura,10/2/2024,Quito,Ecuador,Festival
+998,Arte Urbano,1/12/2024,Ambato,Ecuador,Evento Público
+999,Concierto por la Paz,11/13/2024,Loja,Ecuador,Evento Público
+1000,Expo Cultura,2/11/2024,Cuenca,Ecuador,Festival
+1001,Concierto por la Paz,8/14/2023,Loja,Ecuador,Exposición
+1002,Expo Cultura,6/24/2023,Cuenca,Ecuador,Festival
+1003,Concierto por la Paz,7/8/2023,Cuenca,Ecuador,Evento Público
+1004,Expo Cultura,6/8/2024,Guayaquil,Ecuador,Concierto
+1005,Concierto por la Paz,8/21/2024,Guayaquil,Ecuador,Exposición
+1006,Arte Urbano,2/27/2024,Cuenca,Ecuador,Concierto
+1007,Festival de Luces,5/25/2023,Loja,Ecuador,Concierto
+1008,Noche de Jazz,1/27/2023,Ambato,Ecuador,Concierto
+1009,Festival de Luces,8/6/2023,Guayaquil,Ecuador,Festival
+1010,Festival de Luces,7/16/2024,Quito,Ecuador,Exposición
+1011,Expo Cultura,1/2/2024,Quito,Ecuador,Evento Público
+1012,Expo Cultura,11/30/2023,Ambato,Ecuador,Exposición
+1013,Fiesta Musical,10/17/2023,Cuenca,Ecuador,Festival
+1014,Festival de Luces,11/18/2024,Quito,Ecuador,Evento Público
+1015,Arte Urbano,2/10/2025,Quito,Ecuador,Evento Público
+1016,Concierto por la Paz,8/6/2023,Ambato,Ecuador,Concierto
+1017,Festival Andino,3/15/2024,Quito,Ecuador,Concierto
+1018,Fiesta Musical,12/12/2023,Loja,Ecuador,Concierto
+1019,Arte Urbano,7/6/2024,Loja,Ecuador,Festival
+1020,Cultura Viva,11/16/2024,Quito,Ecuador,Exposición
+1021,Expo Cultura,7/29/2025,Ambato,Ecuador,Concierto
+1022,Fiesta Musical,2/14/2023,Loja,Ecuador,Concierto
+1023,Expo Cultura,7/15/2023,Loja,Ecuador,Concierto
+1024,Expo Cultura,8/25/2025,Ambato,Ecuador,Exposición
+1025,Festival de Luces,8/8/2023,Cuenca,Ecuador,Exposición
+1026,Cultura Viva,9/21/2025,Guayaquil,Ecuador,Festival
+1027,Cultura Viva,3/30/2025,Loja,Ecuador,Festival
+1028,Arte Urbano,10/29/2023,Cuenca,Ecuador,Exposición
+1029,Festival de Luces,8/12/2023,Quito,Ecuador,Concierto
+1030,Festival Andino,11/3/2024,Cuenca,Ecuador,Festival
+1031,Fiesta Musical,3/15/2023,Ambato,Ecuador,Festival
+1032,Noche de Jazz,2/15/2023,Ambato,Ecuador,Exposición
+1033,Fiesta Musical,1/30/2023,Loja,Ecuador,Evento Público
+1034,Festival Andino,5/26/2024,Quito,Ecuador,Evento Público
+1035,Expo Cultura,7/17/2025,Guayaquil,Ecuador,Exposición
+1036,Festival de Luces,9/30/2024,Quito,Ecuador,Concierto
+1037,Expo Cultura,9/9/2025,Guayaquil,Ecuador,Evento Público
+1038,Expo Cultura,3/14/2023,Quito,Ecuador,Festival
+1039,Expo Cultura,5/18/2023,Cuenca,Ecuador,Concierto
+1040,Arte Urbano,1/5/2024,Quito,Ecuador,Festival
+1041,Festival de Luces,1/23/2023,Loja,Ecuador,Festival
+1042,Fiesta Musical,6/11/2023,Quito,Ecuador,Concierto
+1043,Festival de Luces,11/24/2023,Ambato,Ecuador,Exposición
+1044,Festival de Luces,10/13/2024,Cuenca,Ecuador,Evento Público
+1045,Noche de Jazz,5/30/2023,Loja,Ecuador,Festival
+1046,Concierto por la Paz,8/10/2023,Quito,Ecuador,Concierto
+1047,Noche de Jazz,9/24/2024,Quito,Ecuador,Evento Público
+1048,Cultura Viva,3/16/2024,Ambato,Ecuador,Concierto
+1049,Fiesta Musical,7/21/2024,Loja,Ecuador,Evento Público
+1050,Concierto por la Paz,11/21/2023,Loja,Ecuador,Concierto
+1051,Expo Cultura,5/8/2024,Ambato,Ecuador,Festival
+1052,Arte Urbano,9/30/2024,Loja,Ecuador,Festival
+1053,Festival Andino,8/2/2023,Guayaquil,Ecuador,Concierto
+1054,Festival Andino,4/13/2024,Cuenca,Ecuador,Exposición
+1055,Cultura Viva,10/10/2024,Quito,Ecuador,Exposición
+1056,Expo Cultura,10/23/2023,Guayaquil,Ecuador,Evento Público
+1057,Cultura Viva,8/13/2023,Ambato,Ecuador,Exposición
+1058,Festival de Luces,2/12/2024,Ambato,Ecuador,Evento Público
+1059,Cultura Viva,2/8/2025,Quito,Ecuador,Exposición
+1060,Festival de Luces,6/6/2023,Quito,Ecuador,Concierto
+1061,Expo Cultura,10/6/2024,Loja,Ecuador,Festival
+1062,Arte Urbano,1/22/2023,Quito,Ecuador,Evento Público
+1063,Fiesta Musical,7/26/2024,Quito,Ecuador,Festival
+1064,Cultura Viva,8/12/2025,Guayaquil,Ecuador,Festival
+1065,Festival de Luces,9/11/2025,Quito,Ecuador,Concierto
+1066,Festival de Luces,4/8/2025,Ambato,Ecuador,Festival
+1067,Fiesta Musical,11/24/2024,Guayaquil,Ecuador,Concierto
+1068,Noche de Jazz,5/1/2025,Cuenca,Ecuador,Evento Público
+1069,Concierto por la Paz,12/15/2024,Ambato,Ecuador,Evento Público
+1070,Festival Andino,9/7/2025,Ambato,Ecuador,Exposición
+1071,Festival Andino,2/5/2025,Guayaquil,Ecuador,Concierto
+1072,Festival Andino,4/22/2024,Cuenca,Ecuador,Festival
+1073,Festival de Luces,9/11/2023,Guayaquil,Ecuador,Evento Público
+1074,Expo Cultura,8/27/2025,Cuenca,Ecuador,Exposición
+1075,Cultura Viva,6/18/2025,Guayaquil,Ecuador,Evento Público
+1076,Fiesta Musical,7/8/2024,Guayaquil,Ecuador,Evento Público
+1077,Arte Urbano,9/5/2025,Loja,Ecuador,Evento Público
+1078,Arte Urbano,1/18/2024,Ambato,Ecuador,Festival
+1079,Arte Urbano,1/26/2024,Cuenca,Ecuador,Concierto
+1080,Expo Cultura,11/23/2024,Guayaquil,Ecuador,Festival
+1081,Concierto por la Paz,4/5/2023,Ambato,Ecuador,Evento Público
+1082,Noche de Jazz,11/4/2023,Loja,Ecuador,Evento Público
+1083,Concierto por la Paz,6/26/2024,Cuenca,Ecuador,Evento Público
+1084,Arte Urbano,6/4/2024,Quito,Ecuador,Evento Público
+1085,Festival Andino,3/14/2024,Guayaquil,Ecuador,Evento Público
+1086,Fiesta Musical,1/29/2025,Guayaquil,Ecuador,Exposición
+1087,Cultura Viva,7/18/2024,Quito,Ecuador,Concierto
+1088,Expo Cultura,1/24/2024,Ambato,Ecuador,Evento Público
+1089,Noche de Jazz,2/2/2023,Cuenca,Ecuador,Festival
+1090,Cultura Viva,4/18/2023,Quito,Ecuador,Concierto
+1091,Noche de Jazz,9/4/2025,Loja,Ecuador,Concierto
+1092,Fiesta Musical,3/20/2023,Cuenca,Ecuador,Concierto
+1093,Festival Andino,11/5/2024,Guayaquil,Ecuador,Festival
+1094,Festival Andino,7/14/2025,Loja,Ecuador,Festival
+1095,Noche de Jazz,9/16/2025,Guayaquil,Ecuador,Evento Público
+1096,Noche de Jazz,9/5/2024,Ambato,Ecuador,Exposición
+1097,Expo Cultura,10/13/2023,Guayaquil,Ecuador,Concierto
+1098,Fiesta Musical,8/27/2025,Cuenca,Ecuador,Festival
+1099,Noche de Jazz,10/18/2023,Ambato,Ecuador,Festival
+1100,Fiesta Musical,8/26/2025,Loja,Ecuador,Evento Público
+1101,Arte Urbano,3/8/2024,Quito,Ecuador,Exposición
+1102,Expo Cultura,5/29/2023,Cuenca,Ecuador,Concierto
+1103,Cultura Viva,9/13/2023,Loja,Ecuador,Concierto
+1104,Cultura Viva,1/5/2025,Guayaquil,Ecuador,Concierto
+1105,Festival de Luces,4/9/2024,Quito,Ecuador,Exposición
+1106,Fiesta Musical,2/13/2023,Quito,Ecuador,Evento Público
+1107,Concierto por la Paz,3/19/2025,Guayaquil,Ecuador,Exposición
+1108,Expo Cultura,11/10/2023,Loja,Ecuador,Concierto
+1109,Arte Urbano,4/13/2024,Guayaquil,Ecuador,Concierto
+1110,Arte Urbano,9/24/2025,Loja,Ecuador,Exposición
+1111,Cultura Viva,2/17/2024,Quito,Ecuador,Exposición
+1112,Cultura Viva,12/30/2023,Cuenca,Ecuador,Festival
+1113,Festival Andino,7/8/2024,Ambato,Ecuador,Exposición
+1114,Arte Urbano,5/28/2023,Loja,Ecuador,Festival
+1115,Fiesta Musical,4/21/2024,Guayaquil,Ecuador,Evento Público
+1116,Festival de Luces,10/25/2023,Quito,Ecuador,Concierto
+1117,Expo Cultura,10/24/2024,Ambato,Ecuador,Concierto
+1118,Festival Andino,10/3/2023,Quito,Ecuador,Evento Público
+1119,Noche de Jazz,8/31/2024,Cuenca,Ecuador,Festival
+1120,Noche de Jazz,6/29/2024,Guayaquil,Ecuador,Concierto
+1121,Noche de Jazz,7/12/2023,Cuenca,Ecuador,Exposición
+1122,Fiesta Musical,1/14/2023,Loja,Ecuador,Festival
+1123,Festival de Luces,4/7/2025,Loja,Ecuador,Evento Público
+1124,Expo Cultura,11/15/2023,Ambato,Ecuador,Exposición
+1125,Expo Cultura,1/16/2024,Ambato,Ecuador,Festival
+1126,Fiesta Musical,5/17/2024,Guayaquil,Ecuador,Exposición
+1127,Festival de Luces,5/23/2024,Guayaquil,Ecuador,Exposición
+1128,Cultura Viva,10/14/2023,Cuenca,Ecuador,Evento Público
+1129,Festival Andino,3/13/2025,Ambato,Ecuador,Evento Público
+1130,Expo Cultura,7/3/2025,Quito,Ecuador,Concierto
+1131,Expo Cultura,6/27/2023,Quito,Ecuador,Evento Público
+1132,Cultura Viva,2/9/2023,Ambato,Ecuador,Concierto
+1133,Fiesta Musical,10/30/2024,Loja,Ecuador,Concierto
+1134,Festival Andino,6/16/2024,Loja,Ecuador,Exposición
+1135,Noche de Jazz,11/4/2023,Cuenca,Ecuador,Evento Público
+1136,Cultura Viva,7/24/2024,Guayaquil,Ecuador,Festival
+1137,Festival Andino,3/23/2025,Quito,Ecuador,Concierto
+1138,Noche de Jazz,7/25/2025,Ambato,Ecuador,Concierto
+1139,Arte Urbano,7/5/2023,Guayaquil,Ecuador,Exposición
+1140,Festival Andino,1/28/2025,Ambato,Ecuador,Exposición
+1141,Cultura Viva,1/29/2024,Cuenca,Ecuador,Evento Público
+1142,Festival Andino,1/5/2024,Guayaquil,Ecuador,Exposición
+1143,Fiesta Musical,4/26/2024,Guayaquil,Ecuador,Evento Público
+1144,Festival de Luces,12/15/2023,Cuenca,Ecuador,Festival
+1145,Arte Urbano,8/24/2023,Quito,Ecuador,Exposición
+1146,Festival de Luces,11/10/2023,Quito,Ecuador,Concierto
+1147,Fiesta Musical,5/10/2024,Quito,Ecuador,Concierto
+1148,Festival Andino,5/30/2024,Ambato,Ecuador,Festival
+1149,Fiesta Musical,2/18/2023,Cuenca,Ecuador,Festival
+1150,Cultura Viva,9/25/2023,Guayaquil,Ecuador,Evento Público
+1151,Expo Cultura,6/1/2023,Guayaquil,Ecuador,Festival
+1152,Cultura Viva,10/23/2023,Ambato,Ecuador,Festival
+1153,Fiesta Musical,5/11/2023,Ambato,Ecuador,Concierto
+1154,Festival Andino,5/7/2025,Cuenca,Ecuador,Evento Público
+1155,Fiesta Musical,6/13/2025,Cuenca,Ecuador,Evento Público
+1156,Festival Andino,12/9/2024,Ambato,Ecuador,Festival
+1157,Festival de Luces,8/14/2023,Guayaquil,Ecuador,Exposición
+1158,Concierto por la Paz,8/11/2023,Ambato,Ecuador,Exposición
+1159,Noche de Jazz,6/17/2023,Quito,Ecuador,Exposición
+1160,Noche de Jazz,2/11/2025,Quito,Ecuador,Concierto
+1161,Expo Cultura,8/29/2024,Quito,Ecuador,Concierto
+1162,Cultura Viva,1/18/2025,Loja,Ecuador,Exposición
+1163,Arte Urbano,8/2/2025,Cuenca,Ecuador,Exposición
+1164,Expo Cultura,1/1/2024,Cuenca,Ecuador,Exposición
+1165,Expo Cultura,9/18/2023,Cuenca,Ecuador,Concierto
+1166,Arte Urbano,5/31/2023,Quito,Ecuador,Concierto
+1167,Festival de Luces,6/7/2023,Cuenca,Ecuador,Evento Público
+1168,Concierto por la Paz,6/20/2023,Cuenca,Ecuador,Exposición
+1169,Arte Urbano,8/28/2025,Guayaquil,Ecuador,Concierto
+1170,Concierto por la Paz,4/18/2023,Loja,Ecuador,Evento Público
+1171,Expo Cultura,9/1/2023,Cuenca,Ecuador,Exposición
+1172,Festival Andino,2/10/2024,Quito,Ecuador,Exposición
+1173,Cultura Viva,2/17/2024,Guayaquil,Ecuador,Exposición
+1174,Fiesta Musical,11/2/2024,Guayaquil,Ecuador,Concierto
+1175,Cultura Viva,10/30/2023,Cuenca,Ecuador,Festival
+1176,Noche de Jazz,3/5/2024,Loja,Ecuador,Concierto
+1177,Fiesta Musical,10/8/2023,Quito,Ecuador,Concierto
+1178,Expo Cultura,2/17/2023,Ambato,Ecuador,Evento Público
+1179,Festival Andino,4/8/2024,Ambato,Ecuador,Festival
+1180,Concierto por la Paz,6/14/2025,Cuenca,Ecuador,Evento Público
+1181,Festival de Luces,1/21/2024,Cuenca,Ecuador,Evento Público
+1182,Festival Andino,2/13/2024,Quito,Ecuador,Evento Público
+1183,Festival Andino,11/17/2023,Guayaquil,Ecuador,Festival
+1184,Concierto por la Paz,9/24/2024,Cuenca,Ecuador,Festival
+1185,Noche de Jazz,7/13/2023,Loja,Ecuador,Concierto
+1186,Arte Urbano,8/18/2024,Loja,Ecuador,Festival
+1187,Festival de Luces,3/7/2024,Ambato,Ecuador,Evento Público
+1188,Arte Urbano,11/7/2024,Loja,Ecuador,Festival
+1189,Concierto por la Paz,6/8/2024,Guayaquil,Ecuador,Exposición
+1190,Fiesta Musical,7/27/2025,Guayaquil,Ecuador,Exposición
+1191,Festival Andino,11/9/2023,Quito,Ecuador,Exposición
+1192,Festival Andino,10/18/2023,Loja,Ecuador,Evento Público
+1193,Cultura Viva,9/21/2024,Quito,Ecuador,Exposición
+1194,Fiesta Musical,2/20/2023,Loja,Ecuador,Concierto
+1195,Festival Andino,8/3/2025,Quito,Ecuador,Festival
+1196,Festival de Luces,9/23/2025,Ambato,Ecuador,Festival
+1197,Cultura Viva,9/13/2025,Loja,Ecuador,Concierto
+1198,Expo Cultura,7/20/2023,Loja,Ecuador,Exposición
+1199,Noche de Jazz,1/23/2025,Ambato,Ecuador,Evento Público
+1200,Festival de Luces,7/6/2024,Quito,Ecuador,Concierto
+1201,Arte Urbano,10/22/2024,Cuenca,Ecuador,Exposición
+1202,Fiesta Musical,1/7/2024,Guayaquil,Ecuador,Evento Público
+1203,Cultura Viva,4/22/2025,Guayaquil,Ecuador,Concierto
+1204,Arte Urbano,1/18/2024,Quito,Ecuador,Evento Público
+1205,Festival de Luces,9/7/2024,Cuenca,Ecuador,Exposición
+1206,Concierto por la Paz,9/8/2024,Loja,Ecuador,Concierto
+1207,Noche de Jazz,1/16/2024,Ambato,Ecuador,Festival
+1208,Festival Andino,10/30/2023,Loja,Ecuador,Festival
+1209,Fiesta Musical,2/16/2024,Ambato,Ecuador,Concierto
+1210,Arte Urbano,10/22/2024,Ambato,Ecuador,Concierto
+1211,Festival de Luces,6/16/2025,Loja,Ecuador,Exposición
+1212,Arte Urbano,7/29/2024,Loja,Ecuador,Concierto
+1213,Festival Andino,11/26/2023,Cuenca,Ecuador,Evento Público
+1214,Noche de Jazz,9/5/2024,Ambato,Ecuador,Evento Público
+1215,Expo Cultura,7/2/2025,Cuenca,Ecuador,Exposición
+1216,Concierto por la Paz,5/9/2024,Quito,Ecuador,Festival
+1217,Festival Andino,4/1/2025,Quito,Ecuador,Evento Público
+1218,Festival de Luces,3/17/2025,Loja,Ecuador,Evento Público
+1219,Arte Urbano,9/29/2023,Ambato,Ecuador,Exposición
+1220,Festival Andino,12/8/2023,Loja,Ecuador,Evento Público
+1221,Arte Urbano,3/28/2023,Cuenca,Ecuador,Exposición
+1222,Cultura Viva,11/18/2023,Guayaquil,Ecuador,Evento Público
+1223,Fiesta Musical,8/13/2024,Quito,Ecuador,Festival
+1224,Noche de Jazz,7/25/2023,Cuenca,Ecuador,Festival
+1225,Expo Cultura,10/30/2023,Cuenca,Ecuador,Festival
+1226,Festival de Luces,2/23/2025,Ambato,Ecuador,Festival
+1227,Noche de Jazz,8/16/2023,Guayaquil,Ecuador,Exposición
+1228,Arte Urbano,12/1/2024,Guayaquil,Ecuador,Evento Público
+1229,Expo Cultura,5/28/2023,Loja,Ecuador,Concierto
+1230,Cultura Viva,1/1/2025,Quito,Ecuador,Concierto
+1231,Festival de Luces,4/28/2023,Cuenca,Ecuador,Exposición
+1232,Concierto por la Paz,5/12/2025,Quito,Ecuador,Evento Público
+1233,Arte Urbano,8/3/2023,Quito,Ecuador,Concierto
+1234,Arte Urbano,4/16/2025,Cuenca,Ecuador,Festival
+1235,Expo Cultura,1/22/2024,Ambato,Ecuador,Exposición
+1236,Fiesta Musical,3/21/2025,Quito,Ecuador,Concierto
+1237,Expo Cultura,12/22/2024,Loja,Ecuador,Exposición
+1238,Expo Cultura,5/19/2024,Cuenca,Ecuador,Concierto
+1239,Expo Cultura,3/15/2024,Guayaquil,Ecuador,Exposición
+1240,Festival Andino,9/21/2025,Guayaquil,Ecuador,Concierto
+1241,Noche de Jazz,11/4/2024,Loja,Ecuador,Concierto
+1242,Fiesta Musical,2/4/2024,Loja,Ecuador,Evento Público
+1243,Festival Andino,3/7/2023,Quito,Ecuador,Festival
+1244,Noche de Jazz,9/27/2023,Loja,Ecuador,Evento Público
+1245,Expo Cultura,8/11/2024,Guayaquil,Ecuador,Concierto
+1246,Noche de Jazz,4/8/2023,Ambato,Ecuador,Exposición
+1247,Festival Andino,10/29/2023,Loja,Ecuador,Concierto
+1248,Noche de Jazz,4/4/2024,Ambato,Ecuador,Evento Público
+1249,Cultura Viva,4/16/2023,Ambato,Ecuador,Festival
+1250,Noche de Jazz,10/17/2024,Quito,Ecuador,Evento Público
+1251,Expo Cultura,5/11/2024,Ambato,Ecuador,Festival
+1252,Festival de Luces,6/12/2025,Guayaquil,Ecuador,Evento Público
+1253,Arte Urbano,12/15/2024,Cuenca,Ecuador,Concierto
+1254,Fiesta Musical,10/20/2023,Cuenca,Ecuador,Exposición
+1255,Fiesta Musical,5/15/2023,Guayaquil,Ecuador,Exposición
+1256,Expo Cultura,3/12/2023,Quito,Ecuador,Exposición
+1257,Cultura Viva,6/1/2025,Cuenca,Ecuador,Concierto
+1258,Noche de Jazz,6/8/2023,Quito,Ecuador,Exposición
+1259,Fiesta Musical,9/22/2023,Ambato,Ecuador,Concierto
+1260,Expo Cultura,11/22/2024,Quito,Ecuador,Evento Público
+1261,Noche de Jazz,9/3/2024,Cuenca,Ecuador,Evento Público
+1262,Arte Urbano,1/8/2023,Loja,Ecuador,Festival
+1263,Expo Cultura,7/13/2024,Quito,Ecuador,Evento Público
+1264,Fiesta Musical,6/4/2023,Quito,Ecuador,Festival
+1265,Cultura Viva,8/4/2024,Loja,Ecuador,Exposición
+1266,Expo Cultura,4/30/2023,Cuenca,Ecuador,Exposición
+1267,Noche de Jazz,10/29/2023,Cuenca,Ecuador,Exposición
+1268,Festival Andino,5/6/2025,Guayaquil,Ecuador,Evento Público
+1269,Cultura Viva,12/20/2023,Cuenca,Ecuador,Evento Público
+1270,Noche de Jazz,12/9/2024,Guayaquil,Ecuador,Evento Público
+1271,Fiesta Musical,10/7/2023,Loja,Ecuador,Evento Público
+1272,Cultura Viva,4/13/2024,Guayaquil,Ecuador,Evento Público
+1273,Cultura Viva,8/19/2025,Quito,Ecuador,Concierto
+1274,Noche de Jazz,1/15/2024,Cuenca,Ecuador,Exposición
+1275,Festival Andino,1/11/2023,Quito,Ecuador,Festival
+1276,Arte Urbano,3/10/2024,Guayaquil,Ecuador,Concierto
+1277,Fiesta Musical,10/12/2024,Ambato,Ecuador,Festival
+1278,Expo Cultura,3/2/2024,Quito,Ecuador,Evento Público
+1279,Festival de Luces,1/21/2025,Quito,Ecuador,Festival
+1280,Noche de Jazz,4/23/2024,Cuenca,Ecuador,Exposición
+1281,Festival Andino,12/5/2024,Quito,Ecuador,Exposición
+1282,Arte Urbano,6/7/2024,Cuenca,Ecuador,Evento Público
+1283,Festival Andino,2/27/2023,Ambato,Ecuador,Exposición
+1284,Fiesta Musical,5/13/2025,Loja,Ecuador,Exposición
+1285,Noche de Jazz,5/8/2024,Loja,Ecuador,Festival
+1286,Noche de Jazz,3/16/2025,Quito,Ecuador,Evento Público
+1287,Fiesta Musical,8/25/2024,Guayaquil,Ecuador,Concierto
+1288,Noche de Jazz,5/18/2025,Cuenca,Ecuador,Festival
+1289,Arte Urbano,2/6/2023,Ambato,Ecuador,Concierto
+1290,Festival Andino,5/17/2024,Loja,Ecuador,Exposición
+1291,Festival Andino,12/3/2024,Cuenca,Ecuador,Concierto
+1292,Concierto por la Paz,12/10/2023,Loja,Ecuador,Evento Público
+1293,Fiesta Musical,1/13/2023,Guayaquil,Ecuador,Exposición
+1294,Festival Andino,4/8/2023,Loja,Ecuador,Festival
+1295,Festival de Luces,4/8/2024,Ambato,Ecuador,Exposición
+1296,Arte Urbano,5/24/2023,Quito,Ecuador,Festival
+1297,Arte Urbano,11/28/2023,Cuenca,Ecuador,Festival
+1298,Concierto por la Paz,3/18/2024,Loja,Ecuador,Evento Público
+1299,Cultura Viva,10/9/2024,Guayaquil,Ecuador,Evento Público
+1300,Concierto por la Paz,12/15/2024,Ambato,Ecuador,Festival
+1301,Festival de Luces,6/21/2024,Cuenca,Ecuador,Concierto
+1302,Festival Andino,2/1/2025,Guayaquil,Ecuador,Evento Público
+1303,Festival Andino,10/26/2023,Guayaquil,Ecuador,Festival
+1304,Concierto por la Paz,9/20/2025,Ambato,Ecuador,Evento Público
+1305,Fiesta Musical,7/14/2025,Guayaquil,Ecuador,Exposición
+1306,Festival Andino,12/29/2024,Cuenca,Ecuador,Festival
+1307,Concierto por la Paz,2/20/2025,Cuenca,Ecuador,Concierto
+1308,Fiesta Musical,6/21/2025,Loja,Ecuador,Exposición
+1309,Concierto por la Paz,1/9/2025,Guayaquil,Ecuador,Evento Público
+1310,Cultura Viva,4/17/2023,Cuenca,Ecuador,Evento Público
+1311,Concierto por la Paz,8/17/2023,Ambato,Ecuador,Evento Público
+1312,Expo Cultura,6/18/2023,Guayaquil,Ecuador,Festival
+1313,Festival de Luces,3/22/2023,Guayaquil,Ecuador,Evento Público
+1314,Arte Urbano,12/31/2023,Ambato,Ecuador,Festival
+1315,Cultura Viva,11/19/2023,Ambato,Ecuador,Exposición
+1316,Cultura Viva,10/21/2023,Loja,Ecuador,Exposición
+1317,Cultura Viva,1/18/2024,Guayaquil,Ecuador,Festival
+1318,Concierto por la Paz,12/16/2023,Guayaquil,Ecuador,Exposición
+1319,Festival de Luces,1/9/2023,Loja,Ecuador,Festival
+1320,Concierto por la Paz,6/11/2024,Loja,Ecuador,Concierto
+1321,Cultura Viva,9/2/2023,Ambato,Ecuador,Concierto
+1322,Arte Urbano,1/12/2023,Guayaquil,Ecuador,Festival
+1323,Noche de Jazz,8/4/2025,Loja,Ecuador,Concierto
+1324,Arte Urbano,9/20/2024,Loja,Ecuador,Evento Público
+1325,Cultura Viva,9/7/2024,Cuenca,Ecuador,Concierto
+1326,Festival Andino,7/13/2023,Cuenca,Ecuador,Concierto
+1327,Festival de Luces,11/1/2024,Guayaquil,Ecuador,Concierto
+1328,Fiesta Musical,3/4/2025,Quito,Ecuador,Evento Público
+1329,Noche de Jazz,2/9/2023,Ambato,Ecuador,Concierto
+1330,Expo Cultura,8/25/2024,Quito,Ecuador,Evento Público
+1331,Expo Cultura,8/27/2025,Loja,Ecuador,Exposición
+1332,Cultura Viva,10/10/2024,Cuenca,Ecuador,Concierto
+1333,Fiesta Musical,12/13/2024,Ambato,Ecuador,Festival
+1334,Fiesta Musical,1/30/2024,Guayaquil,Ecuador,Evento Público
+1335,Fiesta Musical,9/5/2025,Ambato,Ecuador,Concierto
+1336,Festival de Luces,7/16/2023,Cuenca,Ecuador,Exposición
+1337,Noche de Jazz,11/2/2024,Cuenca,Ecuador,Evento Público
+1338,Festival Andino,5/27/2024,Quito,Ecuador,Festival
+1339,Fiesta Musical,2/20/2024,Quito,Ecuador,Exposición
+1340,Festival Andino,8/7/2024,Ambato,Ecuador,Exposición
+1341,Arte Urbano,9/16/2023,Ambato,Ecuador,Exposición
+1342,Concierto por la Paz,12/31/2023,Loja,Ecuador,Evento Público
+1343,Cultura Viva,5/20/2023,Quito,Ecuador,Concierto
+1344,Festival de Luces,10/19/2024,Loja,Ecuador,Evento Público
+1345,Expo Cultura,5/10/2025,Guayaquil,Ecuador,Exposición
+1346,Festival de Luces,6/10/2023,Loja,Ecuador,Evento Público
+1347,Festival Andino,3/25/2023,Ambato,Ecuador,Exposición
+1348,Fiesta Musical,7/14/2024,Cuenca,Ecuador,Festival
+1349,Festival de Luces,8/4/2025,Cuenca,Ecuador,Exposición
+1350,Cultura Viva,10/17/2023,Cuenca,Ecuador,Festival
+1351,Noche de Jazz,1/3/2024,Cuenca,Ecuador,Evento Público
+1352,Expo Cultura,5/22/2025,Loja,Ecuador,Concierto
+1353,Arte Urbano,1/20/2023,Loja,Ecuador,Evento Público
+1354,Expo Cultura,7/5/2023,Ambato,Ecuador,Concierto
+1355,Expo Cultura,2/11/2024,Quito,Ecuador,Evento Público
+1356,Concierto por la Paz,1/29/2024,Guayaquil,Ecuador,Exposición
+1357,Arte Urbano,3/15/2023,Ambato,Ecuador,Evento Público
+1358,Festival de Luces,3/11/2023,Cuenca,Ecuador,Exposición
+1359,Arte Urbano,1/7/2024,Guayaquil,Ecuador,Festival
+1360,Expo Cultura,3/25/2024,Loja,Ecuador,Festival
+1361,Cultura Viva,9/2/2024,Quito,Ecuador,Evento Público
+1362,Festival de Luces,6/8/2024,Guayaquil,Ecuador,Concierto
+1363,Festival de Luces,8/25/2023,Guayaquil,Ecuador,Exposición
+1364,Noche de Jazz,2/7/2025,Cuenca,Ecuador,Festival
+1365,Noche de Jazz,7/1/2024,Ambato,Ecuador,Exposición
+1366,Expo Cultura,6/18/2023,Quito,Ecuador,Evento Público
+1367,Fiesta Musical,5/26/2023,Loja,Ecuador,Evento Público
+1368,Noche de Jazz,8/24/2023,Ambato,Ecuador,Exposición
+1369,Arte Urbano,3/7/2024,Guayaquil,Ecuador,Concierto
+1370,Festival de Luces,6/10/2024,Cuenca,Ecuador,Exposición
+1371,Cultura Viva,1/8/2025,Quito,Ecuador,Festival
+1372,Concierto por la Paz,1/26/2024,Cuenca,Ecuador,Festival
+1373,Expo Cultura,7/7/2025,Guayaquil,Ecuador,Evento Público
+1374,Expo Cultura,10/10/2024,Loja,Ecuador,Concierto
+1375,Festival de Luces,4/25/2024,Loja,Ecuador,Evento Público
+1376,Cultura Viva,3/8/2023,Quito,Ecuador,Evento Público
+1377,Expo Cultura,2/11/2023,Ambato,Ecuador,Concierto
+1378,Fiesta Musical,8/2/2023,Cuenca,Ecuador,Exposición
+1379,Arte Urbano,2/24/2024,Ambato,Ecuador,Concierto
+1380,Arte Urbano,3/13/2023,Cuenca,Ecuador,Exposición
+1381,Festival Andino,1/31/2024,Guayaquil,Ecuador,Concierto
+1382,Cultura Viva,1/6/2023,Quito,Ecuador,Concierto
+1383,Expo Cultura,12/7/2023,Cuenca,Ecuador,Festival
+1384,Festival de Luces,5/21/2025,Quito,Ecuador,Festival
+1385,Festival de Luces,10/7/2024,Loja,Ecuador,Festival
+1386,Noche de Jazz,1/29/2024,Cuenca,Ecuador,Concierto
+1387,Fiesta Musical,3/19/2023,Quito,Ecuador,Concierto
+1388,Festival de Luces,7/22/2025,Guayaquil,Ecuador,Exposición
+1389,Expo Cultura,3/2/2024,Guayaquil,Ecuador,Evento Público
+1390,Expo Cultura,3/27/2024,Guayaquil,Ecuador,Festival
+1391,Fiesta Musical,2/25/2025,Loja,Ecuador,Concierto
+1392,Arte Urbano,10/2/2024,Quito,Ecuador,Festival
+1393,Arte Urbano,11/7/2024,Ambato,Ecuador,Concierto
+1394,Festival de Luces,8/6/2023,Cuenca,Ecuador,Exposición
+1395,Arte Urbano,6/8/2025,Loja,Ecuador,Exposición
+1396,Arte Urbano,8/25/2023,Ambato,Ecuador,Festival
+1397,Fiesta Musical,2/28/2023,Guayaquil,Ecuador,Festival
+1398,Festival de Luces,2/2/2023,Cuenca,Ecuador,Festival
+1399,Cultura Viva,8/13/2023,Cuenca,Ecuador,Concierto
+1400,Festival de Luces,3/29/2024,Guayaquil,Ecuador,Exposición
+1401,Arte Urbano,9/29/2024,Guayaquil,Ecuador,Concierto
+1402,Fiesta Musical,12/3/2023,Guayaquil,Ecuador,Concierto
+1403,Expo Cultura,9/6/2023,Cuenca,Ecuador,Evento Público
+1404,Fiesta Musical,6/8/2024,Quito,Ecuador,Festival
+1405,Cultura Viva,8/3/2025,Quito,Ecuador,Exposición
+1406,Festival de Luces,2/28/2023,Guayaquil,Ecuador,Festival
+1407,Noche de Jazz,6/10/2025,Guayaquil,Ecuador,Exposición
+1408,Arte Urbano,4/20/2023,Cuenca,Ecuador,Exposición
+1409,Cultura Viva,1/3/2023,Guayaquil,Ecuador,Festival
+1410,Concierto por la Paz,7/6/2023,Loja,Ecuador,Festival
+1411,Fiesta Musical,2/29/2024,Loja,Ecuador,Concierto
+1412,Fiesta Musical,2/24/2023,Quito,Ecuador,Evento Público
+1413,Concierto por la Paz,12/5/2024,Guayaquil,Ecuador,Festival
+1414,Noche de Jazz,2/19/2023,Loja,Ecuador,Evento Público
+1415,Concierto por la Paz,3/14/2024,Cuenca,Ecuador,Evento Público
+1416,Expo Cultura,3/24/2025,Cuenca,Ecuador,Festival
+1417,Festival de Luces,2/23/2025,Loja,Ecuador,Concierto
+1418,Expo Cultura,2/24/2025,Guayaquil,Ecuador,Evento Público
+1419,Festival Andino,9/21/2024,Guayaquil,Ecuador,Festival
+1420,Arte Urbano,9/12/2023,Loja,Ecuador,Exposición
+1421,Festival de Luces,1/19/2023,Cuenca,Ecuador,Evento Público
+1422,Noche de Jazz,2/15/2024,Quito,Ecuador,Exposición
+1423,Festival de Luces,6/1/2025,Guayaquil,Ecuador,Festival
+1424,Arte Urbano,10/6/2024,Cuenca,Ecuador,Exposición
+1425,Festival Andino,1/2/2023,Quito,Ecuador,Festival
+1426,Festival Andino,4/16/2025,Loja,Ecuador,Festival
+1427,Concierto por la Paz,12/24/2024,Quito,Ecuador,Exposición
+1428,Festival Andino,3/27/2023,Quito,Ecuador,Exposición
+1429,Festival de Luces,7/4/2024,Guayaquil,Ecuador,Evento Público
+1430,Arte Urbano,2/22/2023,Quito,Ecuador,Evento Público
+1431,Arte Urbano,3/6/2025,Ambato,Ecuador,Exposición
+1432,Cultura Viva,10/2/2024,Quito,Ecuador,Evento Público
+1433,Cultura Viva,6/10/2024,Quito,Ecuador,Festival
+1434,Arte Urbano,3/17/2024,Quito,Ecuador,Evento Público
+1435,Festival Andino,10/6/2024,Cuenca,Ecuador,Festival
+1436,Noche de Jazz,3/24/2024,Quito,Ecuador,Evento Público
+1437,Festival de Luces,5/22/2025,Quito,Ecuador,Festival
+1438,Noche de Jazz,3/8/2024,Quito,Ecuador,Concierto
+1439,Fiesta Musical,7/18/2024,Quito,Ecuador,Festival
+1440,Festival Andino,3/7/2024,Loja,Ecuador,Concierto
+1441,Concierto por la Paz,3/12/2025,Quito,Ecuador,Exposición
+1442,Expo Cultura,6/9/2025,Cuenca,Ecuador,Concierto
+1443,Fiesta Musical,6/4/2025,Guayaquil,Ecuador,Festival
+1444,Cultura Viva,10/4/2023,Cuenca,Ecuador,Evento Público
+1445,Festival Andino,12/10/2023,Guayaquil,Ecuador,Festival
+1446,Arte Urbano,12/9/2023,Ambato,Ecuador,Concierto
+1447,Noche de Jazz,6/8/2025,Guayaquil,Ecuador,Exposición
+1448,Concierto por la Paz,12/9/2024,Loja,Ecuador,Concierto
+1449,Arte Urbano,3/21/2024,Quito,Ecuador,Exposición
+1450,Fiesta Musical,5/17/2025,Quito,Ecuador,Festival
+1451,Arte Urbano,3/17/2025,Ambato,Ecuador,Evento Público
+1452,Expo Cultura,1/3/2023,Quito,Ecuador,Evento Público
+1453,Fiesta Musical,11/15/2023,Loja,Ecuador,Evento Público
+1454,Concierto por la Paz,5/21/2024,Ambato,Ecuador,Evento Público
+1455,Fiesta Musical,7/6/2023,Cuenca,Ecuador,Evento Público
+1456,Arte Urbano,7/19/2024,Ambato,Ecuador,Exposición
+1457,Expo Cultura,5/17/2025,Loja,Ecuador,Evento Público
+1458,Arte Urbano,2/26/2023,Ambato,Ecuador,Exposición
+1459,Fiesta Musical,9/22/2025,Cuenca,Ecuador,Evento Público
+1460,Expo Cultura,9/23/2025,Loja,Ecuador,Festival
+1461,Festival de Luces,3/1/2025,Cuenca,Ecuador,Festival
+1462,Fiesta Musical,2/2/2023,Ambato,Ecuador,Exposición
+1463,Festival Andino,6/24/2025,Loja,Ecuador,Evento Público
+1464,Concierto por la Paz,1/25/2023,Ambato,Ecuador,Evento Público
+1465,Fiesta Musical,7/8/2024,Quito,Ecuador,Exposición
+1466,Arte Urbano,11/4/2024,Guayaquil,Ecuador,Festival
+1467,Festival Andino,12/19/2023,Ambato,Ecuador,Concierto
+1468,Fiesta Musical,9/21/2025,Cuenca,Ecuador,Festival
+1469,Festival de Luces,11/29/2023,Loja,Ecuador,Festival
+1470,Noche de Jazz,3/7/2023,Loja,Ecuador,Evento Público
+1471,Cultura Viva,8/9/2023,Quito,Ecuador,Exposición
+1472,Cultura Viva,10/2/2024,Cuenca,Ecuador,Exposición
+1473,Festival de Luces,6/22/2025,Quito,Ecuador,Festival
+1474,Expo Cultura,7/1/2025,Ambato,Ecuador,Concierto
+1475,Fiesta Musical,3/5/2025,Cuenca,Ecuador,Evento Público
+1476,Cultura Viva,2/18/2023,Ambato,Ecuador,Concierto
+1477,Fiesta Musical,8/26/2023,Guayaquil,Ecuador,Concierto
+1478,Festival de Luces,9/3/2024,Guayaquil,Ecuador,Exposición
+1479,Cultura Viva,5/21/2023,Cuenca,Ecuador,Festival
+1480,Fiesta Musical,2/2/2023,Guayaquil,Ecuador,Concierto
+1481,Expo Cultura,4/3/2023,Quito,Ecuador,Concierto
+1482,Noche de Jazz,10/27/2023,Quito,Ecuador,Exposición
+1483,Expo Cultura,7/23/2025,Cuenca,Ecuador,Exposición
+1484,Fiesta Musical,4/9/2024,Guayaquil,Ecuador,Exposición
+1485,Arte Urbano,9/3/2023,Quito,Ecuador,Evento Público
+1486,Expo Cultura,4/25/2023,Loja,Ecuador,Festival
+1487,Expo Cultura,8/7/2024,Quito,Ecuador,Concierto
+1488,Noche de Jazz,8/28/2024,Quito,Ecuador,Festival
+1489,Noche de Jazz,1/24/2024,Loja,Ecuador,Exposición
+1490,Concierto por la Paz,11/14/2024,Quito,Ecuador,Festival
+1491,Cultura Viva,12/31/2023,Guayaquil,Ecuador,Festival
+1492,Expo Cultura,2/19/2024,Quito,Ecuador,Concierto
+1493,Festival de Luces,10/20/2024,Ambato,Ecuador,Evento Público
+1494,Fiesta Musical,8/1/2025,Quito,Ecuador,Festival
+1495,Cultura Viva,9/13/2023,Loja,Ecuador,Exposición
+1496,Concierto por la Paz,7/22/2025,Cuenca,Ecuador,Evento Público
+1497,Expo Cultura,3/10/2025,Cuenca,Ecuador,Festival
+1498,Festival de Luces,1/14/2024,Ambato,Ecuador,Exposición
+1499,Cultura Viva,3/15/2024,Quito,Ecuador,Evento Público
+1500,Festival de Luces,1/28/2025,Guayaquil,Ecuador,Exposición
