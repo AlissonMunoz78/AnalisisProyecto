@@ -40,7 +40,7 @@ def insertar_mysql_postgres(df, nombre_tabla):
     except Exception as e:
         print(f" X Error PostgreSQL: {e}")
 
-# ☁️ Función 3: Migrar a MongoDB Compass y Atlas
+#  Función 3: Migrar a MongoDB Compass y Atlas
 def insertar_mongodb(json_file, nombre_tabla):
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
