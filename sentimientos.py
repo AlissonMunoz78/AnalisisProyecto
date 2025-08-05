@@ -27,14 +27,14 @@ def analizar_sentimiento(texto):
 for archivo in archivos:
     ruta = os.path.join(CARPETA, archivo)
     if not os.path.exists(ruta):
-        print(f"❌ No encontrado: {archivo}")
+        print(f" No encontrado: {archivo}")
         continue
 
     with open(ruta, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     if not data:
-        print(f"⚠ Archivo vacío: {archivo}")
+        print(f"Archivo vacío: {archivo}")
         continue
 
     df = pd.DataFrame(data)
@@ -53,5 +53,5 @@ for archivo in archivos:
     # Análisis de sentimiento
     df['sentimiento'] = df[columna_texto].apply(analizar_sentimiento)
 
-    print(f"\n📄 Análisis de sentimientos: {archivo}")
+    print(f"\n Análisis de sentimientos: {archivo}")
     print(df['sentimiento'].value_counts())
