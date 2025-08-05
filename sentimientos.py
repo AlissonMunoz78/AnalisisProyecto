@@ -36,7 +36,6 @@ for archivo in archivos:
     if not data:
         print(f"Archivo vacío: {archivo}")
         continue
-
     df = pd.DataFrame(data)
 
     # Detectar una columna de texto automáticamente
@@ -47,7 +46,7 @@ for archivo in archivos:
             break
 
     if columna_texto is None:
-        print(f"⚠ No hay columna de texto en {archivo}")
+        print(f"No hay columna de texto en {archivo}")
         continue
 
     # Análisis de sentimiento
